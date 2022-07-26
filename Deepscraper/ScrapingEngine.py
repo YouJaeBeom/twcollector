@@ -45,7 +45,7 @@ config.read('config.ini')
 
 
 class ScrapingEngine(object):
-    def __init__(self, query, language, x_guest_token):
+    def __init__(self, query, x_guest_token):
         ## Setting query
         self.query = query
         
@@ -60,8 +60,8 @@ class ScrapingEngine(object):
         self.url = "https://twitter.com/search?q={}&src=typed_query&f=live".format(self.query)
         
         ## Setting Language type
-        self.accept_language = language
-        self.x_twitter_client_language = language
+        self.accept_language = "en"
+        self.x_twitter_client_language = "en"
 
         ## setting tor
         if config['DEFAULT']['TOR']:
@@ -71,7 +71,7 @@ class ScrapingEngine(object):
         if config['DEFAULT']['SEND_MODE']=="kafka":
             self.set_kafka()
         elif config['DEFAULT']['SEND_MODE']=="json":
-            self.set_json(language)
+            self.set_json()
 
     def set_tor(self):
         print("setting tor")
@@ -89,9 +89,9 @@ class ScrapingEngine(object):
         self.producer = KafkaProducer(acks=0, compression_type='gzip', api_version=(0, 10, 1), bootstrap_servers=bootstrap_servers)
         
 
-    def set_json(self,language):
+    def set_json(self):
         print("setting json file")
-        self.filename = 'results/{}_{}.json'.format(self.query,language)
+        self.filename = 'results/{}.json'.format(self.query)
         os.makedirs(os.path.dirname(self.filename), exist_ok=True)  
     
     def set_search_url(self):

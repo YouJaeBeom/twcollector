@@ -2480,3 +2480,186 @@
 2022-07-26 15:14:23,862 - lan_type=en        |query=russia              |tweet_count=332       |
 2022-07-26 15:14:23,961 - lan_type=en        |query=ukraine             |tweet_count=339       |
 2022-07-26 15:14:23,986 - lan_type=en        |query=bts                 |tweet_count=244       |
+2022-07-26 17:10:44,511 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-07-26 17:10:44,511 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-07-26 17:10:44,511 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-07-26 17:10:44,511 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-07-26 17:10:44,511 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-07-26 17:10:44,512 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-07-26 17:10:44,512 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-07-26 17:10:44,512 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:10:44,512 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-07-26 17:10:44,512 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-07-26 17:10:44,512 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-07-26 17:12:09,355 - GETCONF __owningcontrollerprocess (runtime: 0.0004)
+2022-07-26 17:12:09,356 - GETCONF __owningcontrollerprocess (runtime: 0.0005)
+2022-07-26 17:12:09,356 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-07-26 17:12:09,356 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-07-26 17:12:09,356 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-07-26 17:12:09,356 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-07-26 17:12:09,356 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-07-26 17:12:09,356 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,356 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-07-26 17:12:09,356 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,356 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,357 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,358 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): empty socket content
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:09,359 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:19,994 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-07-26 17:12:19,995 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-07-26 17:12:19,995 - GETCONF __owningcontrollerprocess (runtime: 0.0004)
+2022-07-26 17:12:19,995 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-07-26 17:12:19,995 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-07-26 17:12:19,995 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-07-26 17:12:19,995 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-07-26 17:12:19,995 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-07-26 17:12:19,995 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-07-26 17:12:19,995 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-07-26 17:12:19,995 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:19,995 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:19,996 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-07-26 17:12:22,229 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 17:12:22,254 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 17:12:22,295 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 17:12:22,310 - lan_type=en        |query=ukraine             |tweet_count=19        |
+2022-07-26 17:12:22,318 - lan_type=en        |query=bts                 |tweet_count=16        |
+2022-07-26 17:12:24,521 - lan_type=en        |query=bts                 |tweet_count=27        |
+2022-07-26 17:12:24,561 - lan_type=en        |query=russia              |tweet_count=40        |
+2022-07-26 17:12:24,561 - lan_type=en        |query=war                 |tweet_count=40        |
+2022-07-26 17:12:24,578 - lan_type=en        |query=ukraine             |tweet_count=39        |
+2022-07-26 17:12:24,595 - lan_type=en        |query=Putin               |tweet_count=39        |
+2022-07-26 17:12:26,779 - lan_type=en        |query=bts                 |tweet_count=38        |
+2022-07-26 17:12:26,787 - lan_type=en        |query=war                 |tweet_count=60        |
+2022-07-26 17:12:26,829 - lan_type=en        |query=Putin               |tweet_count=59        |
+2022-07-26 17:12:26,848 - lan_type=en        |query=russia              |tweet_count=60        |
+2022-07-26 17:12:26,896 - lan_type=en        |query=ukraine             |tweet_count=59        |
