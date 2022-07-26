@@ -1,7 +1,14 @@
 import requests 
 import json
+import random
 
 def get_x_guest_token():
+
+    ports = [9051, 9061, 9071, 9081]
+    idx = random.randint(0, 3)
+    port = ports[idx]
+    proxies = {'http': 'socks5h://localhost:'+str(port),}    
+
     url_token = 'https://api.twitter.com/1.1/guest/activate.json'
 
     headers = {
@@ -9,7 +16,7 @@ def get_x_guest_token():
     }
     x_guest_token = None
     try:
-        x_guest_token = json.loads(requests.post(url_token, headers=headers).text)['guest_token']
+        x_guest_token = json.loads(requests.post(url_token, headers=headers, proxies=proxies).text)['guest_token']
     except Exception as ex:
         print(ex)
     return x_guest_token

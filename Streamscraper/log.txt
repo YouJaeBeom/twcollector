@@ -63,3 +63,1348 @@
 2022-07-26 13:01:52,589 - lan_type=en        |query=bts                 |change Cookie&Authorization| error=HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /i/api/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweet=true&q=bts+-is%3Aretweet&tweet_search_mode=live&count=40&query_source=typed_query&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f14a7d82f98>, 'Connection to twitter.com timed out. (connect timeout=2)'))|
 2022-07-26 13:01:52,590 - lan_type=en        |query=war                 |change Cookie&Authorization| error=HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /i/api/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweet=true&q=war+-is%3Aretweet&tweet_search_mode=live&count=40&query_source=typed_query&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f14a7d70748>, 'Connection to twitter.com timed out. (connect timeout=2)'))|
 2022-07-26 13:01:52,590 - lan_type=en        |query=russia              |change Cookie&Authorization| error=HTTPSConnectionPool(host='twitter.com', port=443): Max retries exceeded with url: /i/api/2/search/adaptive.json?include_profile_interstitial_type=1&include_blocking=1&include_blocked_by=1&include_followed_by=1&include_want_retweets=1&include_mute_edge=1&include_can_dm=1&include_can_media_tag=1&skip_status=1&cards_platform=Web-12&include_cards=1&include_ext_alt_text=true&include_quote_count=true&include_reply_count=1&tweet_mode=extended&include_entities=true&include_user_entities=true&include_ext_media_color=true&include_ext_media_availability=true&send_error_codes=true&simple_quoted_tweet=true&q=russia+-is%3Aretweet&tweet_search_mode=live&count=40&query_source=typed_query&pc=1&spelling_corrections=1&ext=mediaStats%2ChighlightedLabel (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f14a7d70da0>, 'Connection to twitter.com timed out. (connect timeout=2)'))|
+2022-07-26 13:37:50,671 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,671 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,671 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,672 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,672 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,672 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,672 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,672 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,673 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,673 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,673 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,673 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,673 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,674 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,674 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,674 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,674 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,674 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,674 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,675 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,675 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 13:37:50,739 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,740 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,740 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,740 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,741 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,741 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,741 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,741 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,741 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,741 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,742 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,742 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,742 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,742 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,743 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,743 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,743 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,743 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,743 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,743 - lan_type=en        |query=russia              |tweet_count=19        |
+2022-07-26 13:37:50,755 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,756 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,756 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,756 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,757 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,758 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,759 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,760 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,761 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,761 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,761 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,761 - lan_type=en        |query=bts                 |tweet_count=11        |
+2022-07-26 13:37:50,902 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,903 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,903 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,903 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,903 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,903 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,903 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,904 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,904 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,904 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,904 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,904 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,905 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,905 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,905 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,905 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,905 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,905 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,906 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,906 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:50,906 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 13:37:51,066 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,066 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,066 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,067 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,067 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,067 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,067 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,067 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,068 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,068 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,068 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,068 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,069 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,070 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,070 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,071 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,071 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,071 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,072 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,072 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,072 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 13:37:51,413 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 13:37:51,478 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,478 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 13:37:51,613 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 13:37:51,615 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,616 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,616 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,616 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,616 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,617 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,618 - lan_type=en        |query=bts                 |tweet_count=17        |
+2022-07-26 13:37:51,944 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:51,944 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 13:37:52,129 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 13:37:52,268 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:52,268 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 13:37:52,358 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 13:37:52,569 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:52,569 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:52,569 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:52,570 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:52,570 - lan_type=en        |query=bts                 |tweet_count=21        |
+2022-07-26 13:37:52,696 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 13:37:52,994 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 13:37:53,001 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:53,001 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-07-26 13:37:53,114 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 13:37:53,438 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 13:37:53,465 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:53,465 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:53,465 - 'ScrapingEngine' object has no attribute 'language'
+2022-07-26 13:37:53,465 - lan_type=en        |query=bts                 |tweet_count=24        |
+2022-07-26 13:37:53,711 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 13:37:53,744 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-07-26 13:39:57,211 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,212 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,212 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,212 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,213 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,213 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,213 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,214 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,214 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,214 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,214 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,215 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,215 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,215 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,216 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,216 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,216 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,216 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,216 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,217 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:57,217 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 13:39:57,219 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,220 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,220 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,221 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,221 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,221 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,221 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,221 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,222 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,222 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,222 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,222 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,222 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,222 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,223 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,224 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,224 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,225 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,225 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:57,225 - lan_type=en        |query=russia              |tweet_count=19        |
+2022-07-26 13:39:57,225 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,225 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,225 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,226 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,226 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:57,226 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,226 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,226 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:57,226 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,226 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:57,226 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,226 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:57,226 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,226 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:57,226 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,226 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:57,226 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,226 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,227 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,227 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,227 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:57,228 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:57,228 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:57,228 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,228 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,228 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:57,228 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:57,229 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:57,229 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:57,229 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,229 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,229 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:57,229 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:57,229 - lan_type=en        |query=bts                 |tweet_count=15        |
+2022-07-26 13:39:57,229 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,229 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,230 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 13:39:57,420 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,421 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,422 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,423 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,423 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,423 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,424 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,424 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,424 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,425 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,426 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,426 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,427 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,427 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,427 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,428 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,428 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,428 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,428 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,428 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:57,429 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 13:39:57,941 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 13:39:57,986 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:57,986 - lan_type=en        |query=war                 |tweet_count=21        |
+2022-07-26 13:39:58,095 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:58,095 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 13:39:58,172 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:58,173 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:58,174 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:58,174 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:58,174 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:58,174 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:58,174 - lan_type=en        |query=bts                 |tweet_count=21        |
+2022-07-26 13:39:58,192 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:58,193 - [Errno 2] No such file or directory: '/results/ukraine_en.json'
+2022-07-26 13:39:58,193 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:39:58,781 - [Errno 2] No such file or directory: '/results/Putin_en.json'
+2022-07-26 13:39:58,781 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-07-26 13:39:58,829 - [Errno 2] No such file or directory: '/results/war_en.json'
+2022-07-26 13:39:58,829 - lan_type=en        |query=war                 |tweet_count=22        |
+2022-07-26 13:39:58,912 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:58,912 - [Errno 2] No such file or directory: '/results/russia_en.json'
+2022-07-26 13:39:58,912 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 13:39:58,956 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:39:58,975 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:58,976 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:58,976 - lan_type=en        |query=bts                 |tweet_count=23        |
+2022-07-26 13:39:59,595 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-07-26 13:39:59,670 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 13:39:59,716 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:39:59,755 - lan_type=en        |query=war                 |tweet_count=22        |
+2022-07-26 13:39:59,852 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:59,853 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:59,853 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:59,853 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:59,853 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:59,853 - [Errno 2] No such file or directory: '/results/bts_en.json'
+2022-07-26 13:39:59,853 - lan_type=en        |query=bts                 |tweet_count=29        |
+2022-07-26 13:51:47,013 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 13:51:47,024 - lan_type=en        |query=Putin               |tweet_count=18        |
+2022-07-26 13:51:47,175 - lan_type=en        |query=bts                 |tweet_count=20        |
+2022-07-26 13:51:47,281 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 13:51:47,298 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 13:51:47,807 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:51:47,811 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 13:51:48,049 - lan_type=en        |query=bts                 |tweet_count=25        |
+2022-07-26 13:51:48,051 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 13:51:48,164 - lan_type=en        |query=war                 |tweet_count=25        |
+2022-07-26 13:51:48,583 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 13:51:48,634 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 13:51:48,799 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 13:51:48,931 - lan_type=en        |query=war                 |tweet_count=27        |
+2022-07-26 13:51:48,933 - lan_type=en        |query=bts                 |tweet_count=27        |
+2022-07-26 13:51:49,302 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 13:51:49,378 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 13:51:49,592 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:51:49,706 - lan_type=en        |query=war                 |tweet_count=29        |
+2022-07-26 13:51:49,733 - lan_type=en        |query=bts                 |tweet_count=30        |
+2022-07-26 13:51:50,011 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 13:51:50,220 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-07-26 13:51:50,345 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:51:50,419 - lan_type=en        |query=war                 |tweet_count=29        |
+2022-07-26 13:51:50,608 - lan_type=en        |query=bts                 |tweet_count=35        |
+2022-07-26 13:51:50,793 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 13:51:50,965 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-07-26 13:51:51,083 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:51:51,144 - lan_type=en        |query=war                 |tweet_count=29        |
+2022-07-26 13:51:51,419 - lan_type=en        |query=bts                 |tweet_count=36        |
+2022-07-26 13:51:51,503 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 13:51:51,697 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-07-26 13:51:51,800 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:51:51,990 - lan_type=en        |query=war                 |tweet_count=30        |
+2022-07-26 13:51:52,266 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 13:51:52,289 - lan_type=en        |query=bts                 |tweet_count=40        |
+2022-07-26 13:51:52,462 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-07-26 13:51:52,573 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:51:52,706 - lan_type=en        |query=war                 |tweet_count=30        |
+2022-07-26 13:51:53,021 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 13:51:53,156 - lan_type=en        |query=bts                 |tweet_count=45        |
+2022-07-26 13:51:53,311 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:51:53,350 - lan_type=en        |query=Putin               |tweet_count=22        |
+2022-07-26 13:51:53,473 - lan_type=en        |query=war                 |tweet_count=30        |
+2022-07-26 13:51:53,731 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 13:51:54,065 - lan_type=en        |query=bts                 |tweet_count=51        |
+2022-07-26 13:51:54,118 - lan_type=en        |query=Putin               |tweet_count=22        |
+2022-07-26 13:51:54,196 - lan_type=en        |query=ukraine             |tweet_count=24        |
+2022-07-26 13:51:54,216 - lan_type=en        |query=war                 |tweet_count=30        |
+2022-07-26 13:51:54,444 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 13:51:54,856 - lan_type=en        |query=bts                 |tweet_count=53        |
+2022-07-26 13:51:54,921 - lan_type=en        |query=Putin               |tweet_count=22        |
+2022-07-26 13:51:55,022 - lan_type=en        |query=ukraine             |tweet_count=24        |
+2022-07-26 13:51:55,065 - lan_type=en        |query=war                 |tweet_count=31        |
+2022-07-26 13:51:55,207 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 13:51:55,635 - lan_type=en        |query=bts                 |tweet_count=54        |
+2022-07-26 13:51:55,657 - lan_type=en        |query=Putin               |tweet_count=22        |
+2022-07-26 13:51:55,765 - lan_type=en        |query=ukraine             |tweet_count=24        |
+2022-07-26 13:51:55,905 - lan_type=en        |query=war                 |tweet_count=32        |
+2022-07-26 13:51:55,956 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 13:53:30,418 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:53:30,429 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 13:53:30,523 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 13:53:30,548 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 13:53:30,636 - lan_type=en        |query=bts                 |tweet_count=15        |
+2022-07-26 13:53:31,161 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:53:31,211 - lan_type=en        |query=war                 |tweet_count=21        |
+2022-07-26 13:53:31,307 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 13:53:31,332 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 13:53:31,434 - lan_type=en        |query=bts                 |tweet_count=17        |
+2022-07-26 13:53:31,931 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:53:31,990 - lan_type=en        |query=war                 |tweet_count=21        |
+2022-07-26 13:53:32,082 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 13:53:32,120 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:53:32,293 - lan_type=en        |query=bts                 |tweet_count=24        |
+2022-07-26 13:53:32,769 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:53:32,806 - lan_type=en        |query=war                 |tweet_count=22        |
+2022-07-26 13:53:32,813 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 13:53:32,944 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:53:33,063 - lan_type=en        |query=bts                 |tweet_count=25        |
+2022-07-26 13:53:33,504 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:53:33,555 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 13:53:33,668 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:53:33,713 - lan_type=en        |query=war                 |tweet_count=26        |
+2022-07-26 13:53:33,865 - lan_type=en        |query=bts                 |tweet_count=25        |
+2022-07-26 13:53:34,248 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:53:34,317 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 13:53:34,384 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:53:34,488 - lan_type=en        |query=war                 |tweet_count=26        |
+2022-07-26 13:53:34,618 - lan_type=en        |query=bts                 |tweet_count=26        |
+2022-07-26 13:53:35,062 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 13:53:35,075 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:53:35,124 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:53:35,313 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 13:56:22,127 - lan_type=en        |query=ukraine             |tweet_count=19        |
+2022-07-26 13:56:22,162 - lan_type=en        |query=bts                 |tweet_count=15        |
+2022-07-26 13:56:22,232 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 13:56:22,258 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 13:56:22,278 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 13:56:22,986 - lan_type=en        |query=bts                 |tweet_count=17        |
+2022-07-26 13:56:23,000 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 13:56:23,013 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 13:56:23,055 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 13:56:23,066 - lan_type=en        |query=war                 |tweet_count=22        |
+2022-07-26 13:56:23,762 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 13:56:23,795 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 13:56:23,824 - lan_type=en        |query=war                 |tweet_count=22        |
+2022-07-26 13:56:23,853 - lan_type=en        |query=bts                 |tweet_count=20        |
+2022-07-26 13:56:24,528 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 13:56:24,577 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 13:56:24,585 - lan_type=en        |query=war                 |tweet_count=22        |
+2022-07-26 13:56:24,780 - lan_type=en        |query=bts                 |tweet_count=20        |
+2022-07-26 13:56:25,010 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 13:56:25,247 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 13:56:25,337 - lan_type=en        |query=war                 |tweet_count=22        |
+2022-07-26 13:56:25,366 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:56:25,645 - lan_type=en        |query=bts                 |tweet_count=23        |
+2022-07-26 13:56:25,794 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 13:56:25,990 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 13:56:26,065 - lan_type=en        |query=war                 |tweet_count=22        |
+2022-07-26 13:56:26,164 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:56:26,454 - lan_type=en        |query=bts                 |tweet_count=24        |
+2022-07-26 13:56:26,530 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 13:56:26,723 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 13:56:26,803 - lan_type=en        |query=war                 |tweet_count=22        |
+2022-07-26 13:56:26,910 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:56:27,228 - lan_type=en        |query=bts                 |tweet_count=25        |
+2022-07-26 13:56:27,295 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 13:56:27,448 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 13:56:27,680 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 13:56:27,768 - lan_type=en        |query=war                 |tweet_count=29        |
+2022-07-26 13:57:18,308 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 13:57:18,378 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 13:57:18,407 - lan_type=en        |query=bts                 |tweet_count=13        |
+2022-07-26 13:57:18,415 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:57:18,529 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 13:57:19,142 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:57:19,192 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 13:57:19,287 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 13:57:19,298 - lan_type=en        |query=bts                 |tweet_count=19        |
+2022-07-26 13:57:19,454 - lan_type=en        |query=war                 |tweet_count=26        |
+2022-07-26 13:57:19,873 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:57:19,982 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 13:57:20,027 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 13:57:20,115 - lan_type=en        |query=bts                 |tweet_count=22        |
+2022-07-26 13:57:20,303 - lan_type=en        |query=war                 |tweet_count=29        |
+2022-07-26 13:57:20,688 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:57:20,730 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 13:57:20,734 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 13:57:20,997 - lan_type=en        |query=bts                 |tweet_count=22        |
+2022-07-26 13:57:21,118 - lan_type=en        |query=war                 |tweet_count=29        |
+2022-07-26 13:57:21,413 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:57:21,486 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 13:57:21,496 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 13:57:21,907 - lan_type=en        |query=bts                 |tweet_count=25        |
+2022-07-26 13:57:21,912 - lan_type=en        |query=war                 |tweet_count=31        |
+2022-07-26 13:57:22,127 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:57:22,192 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 13:57:22,243 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 13:57:22,700 - lan_type=en        |query=war                 |tweet_count=31        |
+2022-07-26 13:57:22,837 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:57:22,921 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 13:57:22,931 - lan_type=en        |query=bts                 |tweet_count=29        |
+2022-07-26 13:57:22,978 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 13:57:23,445 - lan_type=en        |query=war                 |tweet_count=31        |
+2022-07-26 13:57:23,556 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:57:23,631 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 13:57:23,742 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 13:57:23,839 - lan_type=en        |query=bts                 |tweet_count=32        |
+2022-07-26 13:57:24,166 - lan_type=en        |query=war                 |tweet_count=31        |
+2022-07-26 13:57:24,321 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:57:24,345 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 13:57:24,515 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 13:57:24,640 - lan_type=en        |query=bts                 |tweet_count=34        |
+2022-07-26 13:57:25,038 - lan_type=en        |query=war                 |tweet_count=31        |
+2022-07-26 13:57:25,047 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:57:25,085 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 13:57:25,254 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 13:57:25,424 - lan_type=en        |query=bts                 |tweet_count=35        |
+2022-07-26 13:57:25,772 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:57:25,829 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 13:57:25,891 - lan_type=en        |query=war                 |tweet_count=33        |
+2022-07-26 13:57:25,969 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 13:57:26,281 - lan_type=en        |query=bts                 |tweet_count=37        |
+2022-07-26 13:57:26,475 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 13:57:26,666 - lan_type=en        |query=war                 |tweet_count=34        |
+2022-07-26 13:57:26,700 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 13:57:26,794 - lan_type=en        |query=ukraine             |tweet_count=27        |
+2022-07-26 13:57:27,098 - lan_type=en        |query=bts                 |tweet_count=40        |
+2022-07-26 13:57:27,443 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 13:57:27,455 - lan_type=en        |query=Putin               |tweet_count=26        |
+2022-07-26 13:57:27,507 - lan_type=en        |query=war                 |tweet_count=35        |
+2022-07-26 14:01:07,040 - lan_type=en        |query=bts                 |tweet_count=13        |
+2022-07-26 14:01:07,198 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:01:07,235 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 14:01:07,341 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:01:07,354 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:01:07,940 - lan_type=en        |query=bts                 |tweet_count=16        |
+2022-07-26 14:01:08,060 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-07-26 14:01:08,079 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:01:08,080 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:01:08,268 - lan_type=en        |query=war                 |tweet_count=22        |
+2022-07-26 14:01:08,820 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:01:08,824 - lan_type=en        |query=bts                 |tweet_count=20        |
+2022-07-26 14:01:08,841 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:01:08,965 - lan_type=en        |query=Putin               |tweet_count=23        |
+2022-07-26 14:01:09,048 - lan_type=en        |query=war                 |tweet_count=23        |
+2022-07-26 14:01:09,570 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:01:09,577 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:01:09,607 - lan_type=en        |query=bts                 |tweet_count=21        |
+2022-07-26 14:01:09,709 - lan_type=en        |query=Putin               |tweet_count=23        |
+2022-07-26 14:01:09,816 - lan_type=en        |query=war                 |tweet_count=23        |
+2022-07-26 14:01:10,309 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:01:10,324 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:01:10,494 - lan_type=en        |query=Putin               |tweet_count=24        |
+2022-07-26 14:01:10,499 - lan_type=en        |query=bts                 |tweet_count=25        |
+2022-07-26 14:01:10,532 - lan_type=en        |query=war                 |tweet_count=23        |
+2022-07-26 14:01:11,045 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:01:11,064 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:01:11,249 - lan_type=en        |query=Putin               |tweet_count=24        |
+2022-07-26 14:01:11,267 - lan_type=en        |query=war                 |tweet_count=23        |
+2022-07-26 14:01:11,315 - lan_type=en        |query=bts                 |tweet_count=27        |
+2022-07-26 14:01:11,782 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:01:11,903 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 14:01:11,962 - lan_type=en        |query=Putin               |tweet_count=24        |
+2022-07-26 14:01:12,124 - lan_type=en        |query=bts                 |tweet_count=29        |
+2022-07-26 14:01:12,518 - lan_type=en        |query=war                 |tweet_count=32        |
+2022-07-26 14:01:12,653 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:01:12,669 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 14:01:12,676 - lan_type=en        |query=Putin               |tweet_count=24        |
+2022-07-26 14:01:12,910 - lan_type=en        |query=bts                 |tweet_count=30        |
+2022-07-26 14:01:13,264 - lan_type=en        |query=war                 |tweet_count=32        |
+2022-07-26 14:01:13,413 - lan_type=en        |query=Putin               |tweet_count=24        |
+2022-07-26 14:01:13,440 - lan_type=en        |query=russia              |tweet_count=24        |
+2022-07-26 14:01:13,451 - lan_type=en        |query=ukraine             |tweet_count=24        |
+2022-07-26 14:01:13,849 - lan_type=en        |query=bts                 |tweet_count=35        |
+2022-07-26 14:01:14,021 - lan_type=en        |query=war                 |tweet_count=32        |
+2022-07-26 14:01:14,169 - lan_type=en        |query=ukraine             |tweet_count=24        |
+2022-07-26 14:01:14,176 - lan_type=en        |query=russia              |tweet_count=24        |
+2022-07-26 14:01:14,356 - lan_type=en        |query=Putin               |tweet_count=26        |
+2022-07-26 14:01:14,637 - lan_type=en        |query=bts                 |tweet_count=36        |
+2022-07-26 14:01:14,914 - lan_type=en        |query=russia              |tweet_count=24        |
+2022-07-26 14:01:14,930 - lan_type=en        |query=ukraine             |tweet_count=25        |
+2022-07-26 14:01:14,968 - lan_type=en        |query=war                 |tweet_count=36        |
+2022-07-26 14:01:15,148 - lan_type=en        |query=Putin               |tweet_count=27        |
+2022-07-26 14:01:15,389 - lan_type=en        |query=bts                 |tweet_count=36        |
+2022-07-26 14:02:00,198 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:02:00,200 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:02:00,212 - lan_type=en        |query=bts                 |tweet_count=17        |
+2022-07-26 14:02:00,227 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:02:00,298 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 14:02:00,906 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:02:00,944 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:02:00,986 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:02:01,042 - lan_type=en        |query=bts                 |tweet_count=21        |
+2022-07-26 14:02:01,093 - lan_type=en        |query=war                 |tweet_count=22        |
+2022-07-26 14:02:01,682 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:02:01,698 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:02:01,723 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:02:01,827 - lan_type=en        |query=bts                 |tweet_count=23        |
+2022-07-26 14:02:01,872 - lan_type=en        |query=war                 |tweet_count=23        |
+2022-07-26 14:02:02,447 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:02:02,471 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 14:02:02,579 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 14:02:02,700 - lan_type=en        |query=war                 |tweet_count=24        |
+2022-07-26 14:02:02,740 - lan_type=en        |query=bts                 |tweet_count=25        |
+2022-07-26 14:02:03,170 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:02:03,265 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 14:02:03,501 - lan_type=en        |query=bts                 |tweet_count=27        |
+2022-07-26 14:02:03,549 - lan_type=en        |query=war                 |tweet_count=25        |
+2022-07-26 14:02:03,614 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 14:02:03,934 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:02:04,029 - lan_type=en        |query=russia              |tweet_count=24        |
+2022-07-26 14:02:04,320 - lan_type=en        |query=bts                 |tweet_count=29        |
+2022-07-26 14:02:04,370 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:02:04,408 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:03:38,303 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:03:38,387 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:03:38,473 - lan_type=en        |query=war                 |tweet_count=19        |
+2022-07-26 14:03:38,515 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:03:38,565 - lan_type=en        |query=bts                 |tweet_count=16        |
+2022-07-26 14:03:39,105 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 14:03:39,144 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:03:39,261 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:03:39,305 - lan_type=en        |query=war                 |tweet_count=23        |
+2022-07-26 14:03:39,449 - lan_type=en        |query=bts                 |tweet_count=22        |
+2022-07-26 14:03:39,848 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 14:03:39,878 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:03:40,007 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:03:40,114 - lan_type=en        |query=war                 |tweet_count=25        |
+2022-07-26 14:03:40,290 - lan_type=en        |query=bts                 |tweet_count=25        |
+2022-07-26 14:03:40,597 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 14:03:40,628 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:03:40,741 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:04:56,534 - lan_type=en        |query=bts                 |tweet_count=9         |
+2022-07-26 14:04:56,756 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:04:56,760 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 14:04:56,803 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:04:56,902 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:04:57,375 - lan_type=en        |query=bts                 |tweet_count=15        |
+2022-07-26 14:04:57,506 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:04:57,533 - lan_type=en        |query=war                 |tweet_count=21        |
+2022-07-26 14:04:57,617 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 14:04:57,658 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-07-26 14:04:58,200 - lan_type=en        |query=bts                 |tweet_count=21        |
+2022-07-26 14:04:58,214 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:04:58,310 - lan_type=en        |query=war                 |tweet_count=23        |
+2022-07-26 14:04:58,410 - lan_type=en        |query=Putin               |tweet_count=23        |
+2022-07-26 14:04:58,452 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 14:04:58,951 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:04:58,960 - lan_type=en        |query=bts                 |tweet_count=23        |
+2022-07-26 14:04:59,107 - lan_type=en        |query=war                 |tweet_count=26        |
+2022-07-26 14:04:59,153 - lan_type=en        |query=Putin               |tweet_count=23        |
+2022-07-26 14:04:59,208 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 14:04:59,703 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:04:59,733 - lan_type=en        |query=bts                 |tweet_count=25        |
+2022-07-26 14:04:59,919 - lan_type=en        |query=Putin               |tweet_count=23        |
+2022-07-26 14:04:59,950 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 14:04:59,984 - lan_type=en        |query=war                 |tweet_count=27        |
+2022-07-26 14:05:00,467 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:05:00,553 - lan_type=en        |query=bts                 |tweet_count=30        |
+2022-07-26 14:05:00,663 - lan_type=en        |query=Putin               |tweet_count=23        |
+2022-07-26 14:05:00,706 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 14:05:00,793 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:05:01,227 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:05:01,500 - lan_type=en        |query=bts                 |tweet_count=31        |
+2022-07-26 14:05:01,516 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:05:01,521 - lan_type=en        |query=Putin               |tweet_count=23        |
+2022-07-26 14:05:01,529 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:05:02,077 - lan_type=en        |query=russia              |tweet_count=25        |
+2022-07-26 14:05:02,272 - lan_type=en        |query=Putin               |tweet_count=23        |
+2022-07-26 14:05:02,280 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:05:02,327 - lan_type=en        |query=bts                 |tweet_count=34        |
+2022-07-26 14:05:02,337 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:05:02,802 - lan_type=en        |query=russia              |tweet_count=25        |
+2022-07-26 14:05:02,996 - lan_type=en        |query=Putin               |tweet_count=23        |
+2022-07-26 14:05:03,029 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:05:03,065 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:05:03,105 - lan_type=en        |query=bts                 |tweet_count=36        |
+2022-07-26 14:05:03,528 - lan_type=en        |query=russia              |tweet_count=25        |
+2022-07-26 14:05:03,775 - lan_type=en        |query=Putin               |tweet_count=25        |
+2022-07-26 14:05:03,778 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:05:03,834 - lan_type=en        |query=ukraine             |tweet_count=25        |
+2022-07-26 14:05:03,901 - lan_type=en        |query=bts                 |tweet_count=37        |
+2022-07-26 14:05:04,257 - lan_type=en        |query=russia              |tweet_count=25        |
+2022-07-26 14:05:04,525 - lan_type=en        |query=Putin               |tweet_count=25        |
+2022-07-26 14:05:04,542 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:05:04,617 - lan_type=en        |query=ukraine             |tweet_count=26        |
+2022-07-26 14:05:04,684 - lan_type=en        |query=bts                 |tweet_count=39        |
+2022-07-26 14:05:04,999 - lan_type=en        |query=russia              |tweet_count=25        |
+2022-07-26 14:05:05,263 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:05:05,267 - lan_type=en        |query=Putin               |tweet_count=25        |
+2022-07-26 14:05:05,515 - lan_type=en        |query=bts                 |tweet_count=43        |
+2022-07-26 14:05:54,588 - lan_type=en        |query=bts                 |tweet_count=15        |
+2022-07-26 14:05:54,624 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:05:54,634 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:05:54,667 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:05:54,728 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 14:05:55,385 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 14:05:55,405 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-07-26 14:05:55,429 - lan_type=en        |query=bts                 |tweet_count=17        |
+2022-07-26 14:05:55,481 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 14:05:55,523 - lan_type=en        |query=war                 |tweet_count=23        |
+2022-07-26 14:05:56,135 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 14:05:56,141 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-07-26 14:05:56,207 - lan_type=en        |query=bts                 |tweet_count=19        |
+2022-07-26 14:05:56,208 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 14:05:56,321 - lan_type=en        |query=war                 |tweet_count=24        |
+2022-07-26 14:05:56,899 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:05:56,940 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-07-26 14:05:56,984 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 14:05:57,029 - lan_type=en        |query=bts                 |tweet_count=21        |
+2022-07-26 14:05:57,156 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:05:57,673 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:05:57,683 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-07-26 14:05:57,723 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 14:05:57,820 - lan_type=en        |query=bts                 |tweet_count=23        |
+2022-07-26 14:05:57,897 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:05:58,398 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-07-26 14:05:58,414 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:05:58,481 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 14:05:58,613 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:05:58,641 - lan_type=en        |query=bts                 |tweet_count=24        |
+2022-07-26 14:05:59,147 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:05:59,178 - lan_type=en        |query=Putin               |tweet_count=23        |
+2022-07-26 14:05:59,219 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 14:05:59,362 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:05:59,492 - lan_type=en        |query=bts                 |tweet_count=27        |
+2022-07-26 14:05:59,864 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:05:59,910 - lan_type=en        |query=Putin               |tweet_count=23        |
+2022-07-26 14:05:59,950 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 14:06:00,080 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:06:00,303 - lan_type=en        |query=bts                 |tweet_count=31        |
+2022-07-26 14:06:00,600 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:06:00,645 - lan_type=en        |query=Putin               |tweet_count=23        |
+2022-07-26 14:06:00,743 - lan_type=en        |query=russia              |tweet_count=24        |
+2022-07-26 14:06:00,973 - lan_type=en        |query=war                 |tweet_count=30        |
+2022-07-26 14:06:01,107 - lan_type=en        |query=bts                 |tweet_count=34        |
+2022-07-26 14:10:07,463 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,463 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,463 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,463 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,463 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,464 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,464 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,464 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,464 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,464 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,464 - lan_type=en        |query=bts                 |tweet_count=10        |
+2022-07-26 14:10:07,543 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,543 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,543 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,543 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,543 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,544 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,544 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,544 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,544 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,544 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,544 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,544 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,544 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,544 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,544 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,545 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,545 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,545 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,545 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,545 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,545 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:10:07,579 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,579 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,579 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,579 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,579 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,580 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,580 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,580 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,580 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,580 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,580 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,580 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,580 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,580 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,581 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,581 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,581 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,581 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,581 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,581 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,581 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,581 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:10:07,582 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,582 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,582 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,582 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,582 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,582 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,582 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,582 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,582 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,583 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,583 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,583 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,583 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,583 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,583 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,583 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,583 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,583 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,583 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,583 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 14:10:07,746 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,746 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,746 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,746 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,746 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,747 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,747 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,747 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,747 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,747 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,748 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,748 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,748 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,748 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,748 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,748 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,748 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,749 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,749 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,749 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:07,749 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:10:08,308 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:10:08,340 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:08,340 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:08,341 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:08,341 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:08,341 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:08,341 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:08,341 - lan_type=en        |query=bts                 |tweet_count=16        |
+2022-07-26 14:10:08,355 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:10:08,435 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:08,436 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:08,436 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:08,436 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:08,436 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:08,436 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:08,437 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:08,437 - lan_type=en        |query=war                 |tweet_count=27        |
+2022-07-26 14:10:08,576 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:08,576 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 14:10:09,058 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:10:09,078 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:10:09,115 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:09,115 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:09,115 - lan_type=en        |query=bts                 |tweet_count=18        |
+2022-07-26 14:10:09,247 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:09,247 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:10:09,354 - a bytes-like object is required, not 'str'
+2022-07-26 14:10:09,354 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 14:11:36,197 - lan_type=en        |query=bts                 |tweet_count=16        |
+2022-07-26 14:11:36,244 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:11:36,258 - lan_type=en        |query=russia              |tweet_count=19        |
+2022-07-26 14:11:36,258 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 14:11:36,388 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 14:11:36,998 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 14:11:37,038 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 14:11:37,109 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:11:37,209 - lan_type=en        |query=war                 |tweet_count=26        |
+2022-07-26 14:11:37,235 - lan_type=en        |query=bts                 |tweet_count=18        |
+2022-07-26 14:11:37,738 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 14:11:37,858 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-07-26 14:11:37,861 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:11:37,969 - lan_type=en        |query=war                 |tweet_count=26        |
+2022-07-26 14:11:38,077 - lan_type=en        |query=bts                 |tweet_count=20        |
+2022-07-26 14:11:38,475 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 14:11:38,622 - lan_type=en        |query=ukraine             |tweet_count=25        |
+2022-07-26 14:11:38,644 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 14:11:38,742 - lan_type=en        |query=war                 |tweet_count=26        |
+2022-07-26 14:11:38,893 - lan_type=en        |query=bts                 |tweet_count=21        |
+2022-07-26 14:11:39,311 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 14:11:39,418 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 14:11:39,462 - lan_type=en        |query=war                 |tweet_count=26        |
+2022-07-26 14:11:39,494 - lan_type=en        |query=ukraine             |tweet_count=27        |
+2022-07-26 14:11:39,763 - lan_type=en        |query=bts                 |tweet_count=25        |
+2022-07-26 14:11:40,022 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 14:11:40,182 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 14:11:40,224 - lan_type=en        |query=war                 |tweet_count=26        |
+2022-07-26 14:11:40,286 - lan_type=en        |query=ukraine             |tweet_count=28        |
+2022-07-26 14:11:40,560 - lan_type=en        |query=bts                 |tweet_count=27        |
+2022-07-26 14:11:40,736 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 14:11:40,895 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 14:11:41,012 - lan_type=en        |query=ukraine             |tweet_count=28        |
+2022-07-26 14:11:41,384 - lan_type=en        |query=bts                 |tweet_count=32        |
+2022-07-26 14:11:41,460 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 14:11:41,617 - lan_type=en        |query=war                 |tweet_count=38        |
+2022-07-26 14:11:41,653 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 14:11:41,747 - lan_type=en        |query=ukraine             |tweet_count=28        |
+2022-07-26 14:11:42,216 - lan_type=en        |query=bts                 |tweet_count=33        |
+2022-07-26 14:11:42,237 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 14:11:42,394 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 14:11:42,402 - lan_type=en        |query=war                 |tweet_count=40        |
+2022-07-26 14:11:42,466 - lan_type=en        |query=ukraine             |tweet_count=28        |
+2022-07-26 14:23:34,098 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 14:23:34,103 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 14:23:34,119 - lan_type=en        |query=bts                 |tweet_count=15        |
+2022-07-26 14:23:34,190 - lan_type=en        |query=ukraine             |tweet_count=19        |
+2022-07-26 14:23:34,309 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:23:34,847 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 14:23:34,899 - lan_type=en        |query=ukraine             |tweet_count=19        |
+2022-07-26 14:23:34,966 - lan_type=en        |query=war                 |tweet_count=21        |
+2022-07-26 14:23:34,997 - lan_type=en        |query=bts                 |tweet_count=17        |
+2022-07-26 14:23:35,105 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:23:35,683 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:23:35,738 - lan_type=en        |query=ukraine             |tweet_count=19        |
+2022-07-26 14:23:35,794 - lan_type=en        |query=bts                 |tweet_count=21        |
+2022-07-26 14:23:35,842 - lan_type=en        |query=war                 |tweet_count=22        |
+2022-07-26 14:23:35,858 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:23:36,444 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:23:36,495 - lan_type=en        |query=ukraine             |tweet_count=19        |
+2022-07-26 14:23:36,596 - lan_type=en        |query=bts                 |tweet_count=22        |
+2022-07-26 14:23:36,628 - lan_type=en        |query=war                 |tweet_count=26        |
+2022-07-26 14:23:36,669 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:23:37,205 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:23:37,340 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:23:37,419 - lan_type=en        |query=war                 |tweet_count=29        |
+2022-07-26 14:23:37,466 - lan_type=en        |query=bts                 |tweet_count=24        |
+2022-07-26 14:23:37,479 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:23:37,926 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:23:38,119 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:23:38,244 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:23:38,254 - lan_type=en        |query=bts                 |tweet_count=27        |
+2022-07-26 14:32:57,896 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,896 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,896 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,896 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,896 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,896 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,896 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,896 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,896 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,896 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,896 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,896 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,896 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,896 - lan_type=en        |query=bts                 |tweet_count=13        |
+2022-07-26 14:32:57,905 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,905 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,906 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,919 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,920 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,920 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:32:57,983 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:57,984 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 14:32:58,193 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,193 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,193 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,193 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,193 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,194 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,194 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,194 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,194 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,194 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,194 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,194 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,194 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,194 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,194 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,194 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,194 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,194 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,194 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,194 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,194 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:32:58,705 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,705 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,705 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,705 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,705 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,705 - lan_type=en        |query=bts                 |tweet_count=18        |
+2022-07-26 14:32:58,714 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,715 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:32:58,809 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,809 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 14:32:58,867 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,867 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,867 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,867 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,867 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:32:58,867 - lan_type=en        |query=war                 |tweet_count=25        |
+2022-07-26 14:34:15,608 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,608 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,608 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,608 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,608 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,608 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,609 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,609 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,609 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,609 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,609 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,609 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,609 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,609 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,609 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,609 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,609 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,609 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,609 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,609 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,609 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 14:34:15,611 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,611 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,611 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,611 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,612 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,612 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,612 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,612 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,612 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,612 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,612 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,612 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,612 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,612 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,612 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,612 - lan_type=en        |query=bts                 |tweet_count=15        |
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,687 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:34:15,699 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,699 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,699 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,699 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,699 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,699 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,699 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,699 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,699 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,699 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,699 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,700 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,700 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,700 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,700 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,700 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,700 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,700 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,700 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,700 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,700 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:34:15,702 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,702 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,702 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,702 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,702 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,702 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,702 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,702 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,703 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,703 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,703 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,703 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,703 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,703 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,703 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,703 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,703 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,703 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,703 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,703 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:15,703 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:34:16,380 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:16,380 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:16,380 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:16,380 - lan_type=en        |query=bts                 |tweet_count=18        |
+2022-07-26 14:34:16,441 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:16,441 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:16,441 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:16,441 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:16,441 - lan_type=en        |query=war                 |tweet_count=24        |
+2022-07-26 14:34:16,450 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:16,450 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-07-26 14:34:16,513 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:16,513 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:16,513 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 14:34:16,534 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:34:17,178 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:17,178 - lan_type=en        |query=bts                 |tweet_count=19        |
+2022-07-26 14:34:17,255 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 14:34:17,271 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:17,271 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:17,271 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:17,271 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:17,271 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:34:17,312 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:17,312 - lan_type=en        |query=Putin               |tweet_count=22        |
+2022-07-26 14:34:17,342 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:34:17,937 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:17,937 - lan_type=en        |query=bts                 |tweet_count=20        |
+2022-07-26 14:34:17,976 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 14:34:18,079 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:18,079 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:18,079 - lan_type=en        |query=Putin               |tweet_count=24        |
+2022-07-26 14:34:18,082 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:18,082 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:18,082 - lan_type=en        |query=war                 |tweet_count=30        |
+2022-07-26 14:34:18,094 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:34:18,723 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 14:34:18,763 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:18,763 - lan_type=en        |query=bts                 |tweet_count=21        |
+2022-07-26 14:34:18,853 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:18,853 - lan_type=en        |query=war                 |tweet_count=31        |
+2022-07-26 14:34:18,871 - lan_type=en        |query=Putin               |tweet_count=24        |
+2022-07-26 14:34:18,881 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:34:19,503 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 14:34:19,518 - lan_type=en        |query=bts                 |tweet_count=21        |
+2022-07-26 14:34:19,624 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:34:19,634 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:19,634 - lan_type=en        |query=war                 |tweet_count=32        |
+2022-07-26 14:34:19,667 - lan_type=en        |query=Putin               |tweet_count=24        |
+2022-07-26 14:34:20,265 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 14:34:20,304 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:20,304 - lan_type=en        |query=bts                 |tweet_count=22        |
+2022-07-26 14:34:20,351 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:34:20,382 - lan_type=en        |query=Putin               |tweet_count=24        |
+2022-07-26 14:34:20,498 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:20,498 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:20,498 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:20,498 - lan_type=en        |query=war                 |tweet_count=35        |
+2022-07-26 14:34:21,004 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-07-26 14:34:21,091 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:34:21,100 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:21,100 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:21,100 - lan_type=en        |query=bts                 |tweet_count=24        |
+2022-07-26 14:34:21,168 - lan_type=en        |query=Putin               |tweet_count=24        |
+2022-07-26 14:34:21,327 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:34:21,327 - lan_type=en        |query=war                 |tweet_count=36        |
+2022-07-26 14:35:20,549 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,550 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,550 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,550 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,550 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,550 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,550 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,550 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,550 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,550 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,550 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,550 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,550 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,550 - lan_type=en        |query=bts                 |tweet_count=13        |
+2022-07-26 14:35:20,661 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,661 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,661 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,661 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,661 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,661 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,661 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,661 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,661 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,661 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,661 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,662 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,662 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,662 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,662 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,662 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,662 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,662 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,662 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,662 - lan_type=en        |query=russia              |tweet_count=19        |
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,729 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:35:20,799 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,799 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,799 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,799 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,799 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,799 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,799 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,799 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,799 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,799 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,799 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,799 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,799 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,799 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,799 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,800 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,800 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,800 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,800 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,800 - lan_type=en        |query=ukraine             |tweet_count=19        |
+2022-07-26 14:35:20,838 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,838 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,838 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,838 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,838 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,838 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,838 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,838 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,838 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,838 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,838 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,838 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,838 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,839 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,839 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,839 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,839 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,839 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,839 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,839 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:20,839 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 14:35:21,441 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:21,441 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:35:21,489 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:21,489 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:21,489 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:21,489 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:21,489 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:21,489 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:21,489 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:21,489 - lan_type=en        |query=bts                 |tweet_count=20        |
+2022-07-26 14:35:21,553 - lan_type=en        |query=ukraine             |tweet_count=19        |
+2022-07-26 14:35:21,620 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:35:21,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:21,729 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:21,729 - lan_type=en        |query=war                 |tweet_count=22        |
+2022-07-26 14:35:22,183 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:35:22,259 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:22,259 - lan_type=en        |query=bts                 |tweet_count=21        |
+2022-07-26 14:35:22,287 - lan_type=en        |query=ukraine             |tweet_count=19        |
+2022-07-26 14:35:22,387 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:35:22,517 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:22,517 - lan_type=en        |query=war                 |tweet_count=23        |
+2022-07-26 14:35:22,925 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:35:23,055 - lan_type=en        |query=ukraine             |tweet_count=19        |
+2022-07-26 14:35:23,086 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:23,087 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:23,087 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:23,087 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:23,087 - lan_type=en        |query=bts                 |tweet_count=25        |
+2022-07-26 14:35:23,318 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:23,318 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:23,318 - 'ScrapingEngine' object has no attribute 'filename'
+2022-07-26 14:35:23,318 - lan_type=en        |query=war                 |tweet_count=26        |
+2022-07-26 14:35:23,335 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:36:47,248 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 14:36:47,257 - lan_type=en        |query=bts                 |tweet_count=17        |
+2022-07-26 14:36:47,293 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:36:47,324 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:36:47,449 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:36:48,004 - lan_type=en        |query=bts                 |tweet_count=17        |
+2022-07-26 14:36:48,037 - lan_type=en        |query=war                 |tweet_count=22        |
+2022-07-26 14:36:48,072 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 14:36:48,192 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:36:48,206 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:36:48,826 - lan_type=en        |query=war                 |tweet_count=23        |
+2022-07-26 14:36:48,839 - lan_type=en        |query=bts                 |tweet_count=19        |
+2022-07-26 14:36:48,843 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-07-26 14:36:48,900 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:36:48,936 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:36:49,633 - lan_type=en        |query=ukraine             |tweet_count=24        |
+2022-07-26 14:36:49,634 - lan_type=en        |query=war                 |tweet_count=25        |
+2022-07-26 14:36:49,642 - lan_type=en        |query=bts                 |tweet_count=20        |
+2022-07-26 14:36:49,667 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:36:49,703 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:36:50,390 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:36:50,438 - lan_type=en        |query=bts                 |tweet_count=22        |
+2022-07-26 14:36:50,457 - lan_type=en        |query=ukraine             |tweet_count=24        |
+2022-07-26 14:36:50,460 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:36:50,536 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:36:51,219 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:36:51,227 - lan_type=en        |query=bts                 |tweet_count=24        |
+2022-07-26 14:36:51,353 - lan_type=en        |query=ukraine             |tweet_count=26        |
+2022-07-26 14:36:51,410 - lan_type=en        |query=war                 |tweet_count=30        |
+2022-07-26 14:36:51,928 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:36:52,001 - lan_type=en        |query=bts                 |tweet_count=26        |
+2022-07-26 14:36:52,100 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 14:36:52,117 - lan_type=en        |query=ukraine             |tweet_count=26        |
+2022-07-26 14:36:52,299 - lan_type=en        |query=war                 |tweet_count=32        |
+2022-07-26 14:43:00,113 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:43:00,163 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-07-26 14:43:00,210 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:43:00,263 - lan_type=en        |query=bts                 |tweet_count=15        |
+2022-07-26 14:43:00,447 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-07-26 14:43:00,863 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:43:00,924 - lan_type=en        |query=ukraine             |tweet_count=21        |
+2022-07-26 14:43:00,981 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:43:01,081 - lan_type=en        |query=bts                 |tweet_count=19        |
+2022-07-26 14:43:01,513 - lan_type=en        |query=war                 |tweet_count=24        |
+2022-07-26 14:43:01,591 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:43:01,729 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:43:01,736 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:43:01,942 - lan_type=en        |query=bts                 |tweet_count=22        |
+2022-07-26 14:43:02,316 - lan_type=en        |query=war                 |tweet_count=26        |
+2022-07-26 14:43:02,374 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:43:02,471 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:43:02,501 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:43:02,762 - lan_type=en        |query=bts                 |tweet_count=27        |
+2022-07-26 14:43:03,115 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:43:03,124 - lan_type=en        |query=war                 |tweet_count=26        |
+2022-07-26 14:43:03,187 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:43:03,256 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:43:03,550 - lan_type=en        |query=bts                 |tweet_count=31        |
+2022-07-26 14:43:03,917 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:43:03,936 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:43:03,997 - lan_type=en        |query=war                 |tweet_count=26        |
+2022-07-26 14:43:04,014 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-07-26 14:43:04,295 - lan_type=en        |query=bts                 |tweet_count=32        |
+2022-07-26 14:43:04,675 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-07-26 14:43:04,722 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:43:04,774 - lan_type=en        |query=war                 |tweet_count=26        |
+2022-07-26 14:43:04,891 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 14:43:05,071 - lan_type=en        |query=bts                 |tweet_count=36        |
+2022-07-26 14:43:05,461 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:43:05,564 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-07-26 14:43:05,637 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 14:43:05,664 - lan_type=en        |query=ukraine             |tweet_count=29        |
+2022-07-26 14:43:05,782 - lan_type=en        |query=bts                 |tweet_count=36        |
+2022-07-26 14:43:06,231 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-07-26 14:43:06,353 - lan_type=en        |query=war                 |tweet_count=31        |
+2022-07-26 14:43:06,384 - lan_type=en        |query=ukraine             |tweet_count=29        |
+2022-07-26 14:43:06,455 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-07-26 14:43:06,538 - lan_type=en        |query=bts                 |tweet_count=36        |

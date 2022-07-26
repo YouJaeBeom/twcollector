@@ -4,6 +4,7 @@ import json
 import sys
 import time
 import maya
+import random
 import socket
 import urllib.parse
 import urllib.request
@@ -19,6 +20,8 @@ import multiprocessing
 # multiprocessing module.
 import multiprocessing.pool
 import time
+from stem.control import Controller
+from stem import Signal
 
 # 로그 생성
 import logging
@@ -36,6 +39,9 @@ import GetCursor
 ## set kafka
 from kafka import KafkaProducer
 
+import configparser
+config = configparser.ConfigParser()
+config.read('config.ini')
 
 
 class ScrapingEngine(object):
@@ -53,19 +59,45 @@ class ScrapingEngine(object):
         ## Setting url
         self.url = "https://twitter.com/search?q={}&src=typed_query&f=live".format(self.query)
         
-        ## Setting kafka
-        self.producer = KafkaProducer(acks=0, compression_type='gzip', api_version=(0, 10, 1), bootstrap_servers=['117.17.189.205:9092','117.17.189.205:9093','117.17.189.205:9094'])
-        
         ## Setting Language type
         self.accept_language = language
         self.x_twitter_client_language = language
 
+        ## setting tor
+        if config['DEFAULT']['TOR']:
+            self.set_tor()
 
+        ## Setting send mode:
+        if config['DEFAULT']['SEND_MODE']=="kafka":
+            self.set_kafka()
+        elif config['DEFAULT']['SEND_MODE']=="json":
+            self.set_json(language)
+
+    def set_tor(self):
+        print("setting tor")
+        self.ports = [9051, 9061, 9071, 9081]
+        self.idx = random.randint(0, 3)
+        self.port = self.ports[self.idx]
+        with Controller.from_port(port = self.port) as controller:
+            controller.authenticate(password="MyStr")
+            controller.signal(Signal.NEWNYM)
+        self.proxies = {'http': 'socks5h://localhost:'+str(self.port),}    
+
+    def set_kafka(self):
+        print("setting kafka")
+        bootstrap_servers = ['117.17.189.205:9092','117.17.189.205:9093','117.17.189.205:9094']
+        self.producer = KafkaProducer(acks=0, compression_type='gzip', api_version=(0, 10, 1), bootstrap_servers=bootstrap_servers)
+        
+
+    def set_json(self,language):
+        print("setting json file")
+        self.filename = 'results/{}_{}.json'.format(self.query,language)
+        os.makedirs(os.path.dirname(self.filename), exist_ok=True)  
+    
     def set_search_url(self):
         self.url = self.base_url + self.query +"&src=typed_query&f=live"
         
         return self.url
-
 
     def set_token(self):
         print(self.accept_language, self.query, "retry token")
@@ -82,6 +114,8 @@ class ScrapingEngine(object):
         request_count = 0 
 
         while (True):
+            time.sleep(1)
+
             request_count = request_count + 1
 
             if request_count == 100 :
@@ -136,16 +170,24 @@ class ScrapingEngine(object):
                     ('ext', 'mediaStats,highlightedLabel'),
                     ('cursor', self.cursor ), ## next cursor range
             )
-            
+                 
             ## api requests 
             try:
-                self.response = requests.get(
-                        'https://twitter.com/i/api/2/search/adaptive.json', 
-                        headers=self.headers,
-                        params=self.params,
-                        timeout=2
-                        )
-                
+                if config['DEFAULT']['TOR']:
+                    self.response = requests.get(
+                            'https://twitter.com/i/api/2/search/adaptive.json', 
+                            headers=self.headers,
+                            params=self.params,
+                            proxies=self.proxies,
+                            timeout=2
+                            )
+                else: 
+                    self.response = requests.get(
+                            'https://twitter.com/i/api/2/search/adaptive.json', 
+                            headers=self.headers,
+                            params=self.params,
+                            timeout=2
+                            )
                 self.response_json = self.response.json()
             except Exception as ex:
                 ## If API is restricted, request to change Cookie and Authorization again
@@ -157,6 +199,7 @@ class ScrapingEngine(object):
                 logger.critical(result_print)
                 print(result_print)
                 self.x_guest_token = self.set_token()
+                self.set_tor()
                 
             
             ## parsing response 
@@ -184,12 +227,14 @@ class ScrapingEngine(object):
             if is_quote_status==False:    
                 self.totalcount = self.totalcount + 1
                 ## send kafka 
-                try:       
-                    tweet = json.dumps(tweet, indent=4, sort_keys=True, ensure_ascii=False)
-                    with open('/results/{}_{}.json'.format(self.query,self.language), 'w') as f:
-                        json.dump(tweet, f)
-                    #self.producer.send("tweet", tweet.encode('utf-8'))
-                    #self.producer.flush()
+                try:
+                    if config['DEFAULT']['SEND_MODE']=="kafka":
+                        tweet = json.dumps(tweet, indent=4, sort_keys=True, ensure_ascii=False)
+                        self.producer.send("tweet", tweet.encode('utf-8'))
+                        self.producer.flush()
+                    elif config['DEFAULT']['SEND_MODE']=="json":
+                        with open(self.filename, 'a') as f:
+                            f.write(json.dumps(tweet)+"\n")
                 except Exception as ex:
                     logger.critical(ex)
                     print(ex)

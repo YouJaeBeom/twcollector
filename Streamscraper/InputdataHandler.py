@@ -4,6 +4,9 @@ import AuthenticationManager
 import time 
 from itertools import repeat
 import time 
+import configparser
+config = configparser.ConfigParser()
+config.read('config.ini')
 
 class NoDaemonProcess(multiprocessing.Process):
     # make 'daemon' attribute always return False
@@ -30,7 +33,7 @@ def execute(query,language, x_guest_token):
 
 def query_execute(query):
     ## language_list && language_list index list 
-    with open('language_list.txt', 'r') as f:
+    with open(config['DEFAULT']['LANGUAGE_FILE'], 'r') as f:
         language_list = f.read().strip().split(',')
         language_index_list = [x for x in range(len(language_list))]
 
@@ -56,7 +59,7 @@ if(__name__ == '__main__') :
     query_index_list = []
 
     ## query list && query index list 
-    with open('list.txt', 'r') as f:
+    with open(config['DEFAULT']['QUERY_FILE'], 'r') as f:
         query_list = f.read().strip().split(',')
         query_index_list = [x for x in range(len(query_list))]
 
