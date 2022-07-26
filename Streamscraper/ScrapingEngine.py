@@ -186,8 +186,10 @@ class ScrapingEngine(object):
                 ## send kafka 
                 try:       
                     tweet = json.dumps(tweet, indent=4, sort_keys=True, ensure_ascii=False)
-                    self.producer.send("tweet", tweet.encode('utf-8'))
-                    self.producer.flush()
+                    with open('/results/{}_{}.json'.format(self.query,self.language), 'w') as f:
+                        json.dump(tweet, f)
+                    #self.producer.send("tweet", tweet.encode('utf-8'))
+                    #self.producer.flush()
                 except Exception as ex:
                     logger.critical(ex)
                     print(ex)
