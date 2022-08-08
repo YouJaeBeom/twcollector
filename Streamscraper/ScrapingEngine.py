@@ -72,6 +72,9 @@ class ScrapingEngine(object):
             self.set_kafka()
         elif config['DEFAULT']['SEND_MODE']=="json":
             self.set_json(language)
+        
+        self.tweetIDfile = 'tweetID/tweetID.txt'
+        os.makedirs(os.path.dirname(self.tweetIDfile), exist_ok=True)  
 
     def set_tor(self):
         print("setting tor")
@@ -92,7 +95,7 @@ class ScrapingEngine(object):
     def set_json(self,language):
         print("setting json file")
         self.filename = 'results/{}_{}.json'.format(self.query,language)
-        os.makedirs(os.path.dirname(self.filename), exist_ok=True)  
+        os.makedirs(os.path.dirname(self.filename), exist_ok=True) 
     
     def set_search_url(self):
         self.url = self.base_url + self.query +"&src=typed_query&f=live"
@@ -229,12 +232,14 @@ class ScrapingEngine(object):
                 ## send kafka 
                 try:
                     if config['DEFAULT']['SEND_MODE']=="kafka":
-                        tweet = json.dumps(tweet, indent=4, sort_keys=True, ensure_ascii=False)
-                        self.producer.send("tweet", tweet.encode('utf-8'))
+                        tweet_json = json.dumps(tweet, indent=4, sort_keys=True, ensure_ascii=False)
+                        self.producer.send("tweet", tweet_json.encode('utf-8'))
                         self.producer.flush()
+                        with open(self.tweetIDfile, 'a') as f:
+                            f.write(str(tweet['id_str'])+"\n")
                     elif config['DEFAULT']['SEND_MODE']=="json":
                         with open(self.filename, 'a') as f:
-                            f.write(json.dumps(tweet)+"\n")
+                            f.write(json.dumps(tweet_json)+"\n")
                 except Exception as ex:
                     logger.critical(ex)
                     print(ex)
