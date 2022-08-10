@@ -6615,3 +6615,1139 @@
 2022-08-11 00:06:39,643 - lan_type=en        |query=bts                 |tweet_count=13393     |
 2022-08-11 00:06:40,105 - lan_type=en        |query=war                 |tweet_count=5892      |
 2022-08-11 00:06:40,287 - lan_type=en        |query=ukraine             |tweet_count=2613      |
+2022-08-11 00:58:16,270 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 00:58:16,270 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 00:58:16,270 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 00:58:16,270 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 00:58:16,271 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:06:28,507 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:06:28,508 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:06:28,511 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:06:28,511 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:06:28,511 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:06:28,525 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:06:28,525 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:06:28,525 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:06:28,526 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:06:28,532 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:06:28,532 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:06:28,532 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:06:28,532 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:06:28,532 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:06:28,532 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:06:28,532 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:08:00,521 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:08:00,522 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:08:00,522 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:08:00,522 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:08:00,539 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:08:00,539 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:08:00,540 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:08:00,540 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:08:00,541 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:08:00,541 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:08:00,544 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:08:00,544 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:08:12,690 - lan_type=en        |query=bts                 |tweet_count=11        |
+2022-08-11 01:08:12,857 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,857 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,858 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,858 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,858 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,858 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,858 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,858 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,858 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,858 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,858 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,858 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,859 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,859 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,859 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,859 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,859 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,859 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,859 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,859 - lan_type=en        |query=war                 |tweet_count=19        |
+2022-08-11 01:08:12,879 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,879 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,879 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,879 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,879 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,879 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,879 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,880 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,880 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,880 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,880 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,880 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,880 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,880 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,880 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,881 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,881 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,881 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,881 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,881 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,881 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-08-11 01:08:12,887 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,887 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,887 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,888 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,888 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,888 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,888 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,888 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,888 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,888 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,888 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,889 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,889 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,889 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,889 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,889 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,889 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,889 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,889 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,890 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,890 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-08-11 01:08:12,957 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,958 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,958 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,958 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,958 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,958 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,958 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,958 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,958 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,959 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,959 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,959 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,959 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,959 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,959 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,959 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,959 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,960 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,960 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,960 - [Errno 32] Broken pipe
+2022-08-11 01:08:12,960 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-08-11 01:08:14,578 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,578 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,578 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,578 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,578 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,578 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,579 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,579 - lan_type=en        |query=bts                 |tweet_count=18        |
+2022-08-11 01:08:14,699 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,699 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,700 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-08-11 01:08:14,752 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,752 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,752 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,752 - lan_type=en        |query=Putin               |tweet_count=23        |
+2022-08-11 01:08:14,776 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,776 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,776 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-08-11 01:08:14,802 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,802 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,802 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,803 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,803 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,803 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,803 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,803 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,803 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,803 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,803 - [Errno 32] Broken pipe
+2022-08-11 01:08:14,803 - lan_type=en        |query=war                 |tweet_count=30        |
+2022-08-11 01:08:16,415 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,415 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,416 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,416 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,416 - lan_type=en        |query=bts                 |tweet_count=22        |
+2022-08-11 01:08:16,503 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,503 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,504 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,504 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,504 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,504 - lan_type=en        |query=russia              |tweet_count=27        |
+2022-08-11 01:08:16,564 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,565 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,565 - lan_type=en        |query=Putin               |tweet_count=25        |
+2022-08-11 01:08:16,640 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,641 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,641 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,641 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,641 - lan_type=en        |query=ukraine             |tweet_count=26        |
+2022-08-11 01:08:16,665 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,665 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,665 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,666 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,666 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,666 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,666 - [Errno 32] Broken pipe
+2022-08-11 01:08:16,666 - lan_type=en        |query=war                 |tweet_count=37        |
+2022-08-11 01:20:15,684 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:20:15,684 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:20:15,685 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:20:15,685 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:20:15,685 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:20:15,687 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:20:15,688 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:20:15,688 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:20:15,689 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:20:15,701 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:20:15,701 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:20:15,701 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:20:15,702 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:20:15,702 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:20:15,702 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:20:17,599 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,599 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,600 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,600 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,600 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,600 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,600 - lan_type=en        |query=bts                 |tweet_count=7         |
+2022-08-11 01:20:17,945 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,945 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,945 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,945 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,945 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,945 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,945 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,945 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,945 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,945 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,945 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,945 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,945 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,946 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,946 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,946 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,946 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,946 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,946 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:17,946 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-08-11 01:20:18,023 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,024 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,024 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,024 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,024 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,024 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,024 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,024 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,024 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,024 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,024 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,024 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,024 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,024 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,024 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,025 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,025 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,025 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,025 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,025 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-08-11 01:20:18,033 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,033 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,034 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,034 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,034 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,034 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,034 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,034 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,034 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,034 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,034 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,034 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,034 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,034 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,034 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,034 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,034 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,034 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,035 - lan_type=en        |query=russia              |tweet_count=19        |
+2022-08-11 01:20:18,059 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,059 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,059 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,059 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,060 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,060 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,060 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,060 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,060 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,060 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,060 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,060 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,060 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,060 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,060 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,060 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,060 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,060 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,061 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:18,061 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-08-11 01:20:19,473 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,473 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,473 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,473 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,473 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,473 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,474 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,474 - lan_type=en        |query=bts                 |tweet_count=14        |
+2022-08-11 01:20:19,857 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,858 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,858 - lan_type=en        |query=Putin               |tweet_count=22        |
+2022-08-11 01:20:19,881 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,881 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,881 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,881 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-08-11 01:20:19,963 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,963 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,963 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,963 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,963 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:19,963 - lan_type=en        |query=ukraine             |tweet_count=25        |
+2022-08-11 01:20:20,243 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:20,244 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:20,244 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:20,244 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:20,244 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:20,244 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:20,244 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:20,244 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:20,244 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:20,244 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:20,244 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:20,244 - lan_type=en        |query=war                 |tweet_count=31        |
+2022-08-11 01:20:21,320 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:21,320 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:21,320 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:21,320 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:21,320 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:21,320 - lan_type=en        |query=bts                 |tweet_count=19        |
+2022-08-11 01:20:21,691 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:21,691 - lan_type=en        |query=Putin               |tweet_count=23        |
+2022-08-11 01:20:21,696 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:21,696 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:21,696 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:21,696 - lan_type=en        |query=russia              |tweet_count=25        |
+2022-08-11 01:20:21,828 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:21,828 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:21,828 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:21,828 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:21,828 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:21,828 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:21,828 - lan_type=en        |query=ukraine             |tweet_count=31        |
+2022-08-11 01:20:22,370 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:22,370 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:22,370 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:22,370 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:22,370 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:22,370 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:22,370 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:22,370 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:22,370 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:22,370 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:22,370 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:22,371 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:22,371 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:22,371 - lan_type=en        |query=war                 |tweet_count=44        |
+2022-08-11 01:20:23,249 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:23,250 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:23,250 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:23,250 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:23,250 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:23,250 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:23,250 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:23,250 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:23,250 - lan_type=en        |query=bts                 |tweet_count=27        |
+2022-08-11 01:20:23,474 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:23,474 - lan_type=en        |query=Putin               |tweet_count=24        |
+2022-08-11 01:20:23,501 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:23,501 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:23,501 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:23,501 - lan_type=en        |query=russia              |tweet_count=28        |
+2022-08-11 01:20:23,706 - lan_type=en        |query=ukraine             |tweet_count=31        |
+2022-08-11 01:20:24,272 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:24,272 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:24,272 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:24,272 - lan_type=en        |query=war                 |tweet_count=47        |
+2022-08-11 01:20:25,111 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:25,111 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:25,111 - lan_type=en        |query=bts                 |tweet_count=29        |
+2022-08-11 01:20:25,276 - lan_type=en        |query=Putin               |tweet_count=24        |
+2022-08-11 01:20:25,303 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:25,304 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:25,304 - lan_type=en        |query=russia              |tweet_count=30        |
+2022-08-11 01:20:25,631 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:25,631 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:25,631 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:25,631 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:25,631 - lan_type=en        |query=ukraine             |tweet_count=35        |
+2022-08-11 01:20:26,206 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:26,206 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:26,206 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:26,206 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:26,206 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:26,206 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:26,206 - lan_type=en        |query=war                 |tweet_count=53        |
+2022-08-11 01:20:26,959 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:26,959 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:26,959 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:26,959 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:26,959 - lan_type=en        |query=bts                 |tweet_count=33        |
+2022-08-11 01:20:27,134 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:27,134 - lan_type=en        |query=Putin               |tweet_count=25        |
+2022-08-11 01:20:27,157 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:27,157 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:27,157 - lan_type=en        |query=russia              |tweet_count=32        |
+2022-08-11 01:20:27,477 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:27,477 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:27,477 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:27,477 - lan_type=en        |query=ukraine             |tweet_count=38        |
+2022-08-11 01:20:28,106 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:28,106 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:28,106 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:28,106 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:28,106 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:28,106 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:28,106 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:28,106 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:28,106 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:28,106 - lan_type=en        |query=war                 |tweet_count=62        |
+2022-08-11 01:20:28,733 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:28,733 - lan_type=en        |query=bts                 |tweet_count=34        |
+2022-08-11 01:20:28,976 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:28,976 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:28,976 - lan_type=en        |query=Putin               |tweet_count=27        |
+2022-08-11 01:20:29,219 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:29,220 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:29,220 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:29,220 - lan_type=en        |query=russia              |tweet_count=35        |
+2022-08-11 01:20:29,476 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:29,476 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:29,476 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:29,476 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:29,476 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:29,476 - lan_type=en        |query=ukraine             |tweet_count=43        |
+2022-08-11 01:20:30,047 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:30,047 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:30,047 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:30,047 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:30,048 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:30,048 - lan_type=en        |query=war                 |tweet_count=67        |
+2022-08-11 01:20:30,617 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:30,617 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:30,617 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:30,617 - [Errno 106] Transport endpoint is already connected
+2022-08-11 01:20:30,617 - lan_type=en        |query=bts                 |tweet_count=38        |
+2022-08-11 01:20:30,727 - lan_type=en        |query=Putin               |tweet_count=27        |
+2022-08-11 01:21:08,154 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:21:08,155 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:21:08,155 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:21:08,160 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:21:08,161 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:21:08,162 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:21:08,163 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:21:08,167 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:21:08,167 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:21:08,167 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:21:08,167 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:21:08,167 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:21:08,168 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:21:08,168 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:21:08,184 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:21:08,185 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:21:08,185 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:21:08,185 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:21:08,185 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:22:10,194 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:22:10,195 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:22:10,197 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:22:10,197 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:22:10,197 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:22:10,197 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:22:10,199 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:22:10,199 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:22:10,200 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:22:10,200 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:22:12,517 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-08-11 01:22:12,517 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-08-11 01:22:12,519 - lan_type=en        |query=bts                 |tweet_count=14        |
+2022-08-11 01:22:12,543 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-08-11 01:22:12,938 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-08-11 01:22:14,391 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,391 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,391 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,391 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,391 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,391 - lan_type=en        |query=war                 |tweet_count=29        |
+2022-08-11 01:22:14,392 - lan_type=en        |query=Putin               |tweet_count=30        |
+2022-08-11 01:22:14,393 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,393 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,393 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,393 - lan_type=en        |query=russia              |tweet_count=27        |
+2022-08-11 01:22:14,784 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,784 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,784 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,784 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,784 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,784 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,784 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,785 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,785 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,785 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,785 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,785 - lan_type=en        |query=bts                 |tweet_count=29        |
+2022-08-11 01:22:14,800 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,800 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,800 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,800 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,800 - [Errno 32] Broken pipe
+2022-08-11 01:22:14,800 - lan_type=en        |query=ukraine             |tweet_count=25        |
+2022-08-11 01:22:16,195 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,196 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,196 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,196 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,196 - lan_type=en        |query=war                 |tweet_count=33        |
+2022-08-11 01:22:16,268 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,268 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,268 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,268 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,268 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,268 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,268 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,268 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,268 - lan_type=en        |query=russia              |tweet_count=35        |
+2022-08-11 01:22:16,370 - lan_type=en        |query=Putin               |tweet_count=33        |
+2022-08-11 01:22:16,681 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,682 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,682 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,682 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,682 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,682 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,682 - lan_type=en        |query=bts                 |tweet_count=35        |
+2022-08-11 01:22:16,860 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,860 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,860 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,860 - [Errno 32] Broken pipe
+2022-08-11 01:22:16,860 - lan_type=en        |query=ukraine             |tweet_count=29        |
+2022-08-11 01:22:18,073 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,073 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,073 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,074 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,074 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,074 - lan_type=en        |query=russia              |tweet_count=40        |
+2022-08-11 01:22:18,134 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,135 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,135 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,135 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,135 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,135 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,135 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,135 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,135 - lan_type=en        |query=war                 |tweet_count=41        |
+2022-08-11 01:22:18,184 - lan_type=en        |query=Putin               |tweet_count=35        |
+2022-08-11 01:22:18,519 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,519 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,519 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,519 - lan_type=en        |query=bts                 |tweet_count=38        |
+2022-08-11 01:22:18,680 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,680 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,681 - [Errno 32] Broken pipe
+2022-08-11 01:22:18,681 - lan_type=en        |query=ukraine             |tweet_count=32        |
+2022-08-11 01:22:19,894 - [Errno 32] Broken pipe
+2022-08-11 01:22:19,894 - [Errno 32] Broken pipe
+2022-08-11 01:22:19,894 - [Errno 32] Broken pipe
+2022-08-11 01:22:19,894 - [Errno 32] Broken pipe
+2022-08-11 01:22:19,895 - [Errno 32] Broken pipe
+2022-08-11 01:22:19,895 - lan_type=en        |query=russia              |tweet_count=45        |
+2022-08-11 01:22:19,928 - lan_type=en        |query=Putin               |tweet_count=35        |
+2022-08-11 01:22:20,007 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,007 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,007 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,007 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,007 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,007 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,007 - lan_type=en        |query=war                 |tweet_count=47        |
+2022-08-11 01:22:20,504 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,504 - lan_type=en        |query=ukraine             |tweet_count=33        |
+2022-08-11 01:22:20,676 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,676 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,676 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,676 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,676 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,676 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,676 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,676 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,676 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,676 - [Errno 32] Broken pipe
+2022-08-11 01:22:20,676 - lan_type=en        |query=bts                 |tweet_count=48        |
+2022-08-11 01:22:21,692 - [Errno 32] Broken pipe
+2022-08-11 01:22:21,692 - [Errno 32] Broken pipe
+2022-08-11 01:22:21,692 - [Errno 32] Broken pipe
+2022-08-11 01:22:21,693 - [Errno 32] Broken pipe
+2022-08-11 01:22:21,693 - [Errno 32] Broken pipe
+2022-08-11 01:22:21,693 - lan_type=en        |query=russia              |tweet_count=50        |
+2022-08-11 01:22:21,706 - lan_type=en        |query=Putin               |tweet_count=35        |
+2022-08-11 01:22:21,888 - [Errno 32] Broken pipe
+2022-08-11 01:22:21,888 - [Errno 32] Broken pipe
+2022-08-11 01:22:21,888 - [Errno 32] Broken pipe
+2022-08-11 01:22:21,888 - [Errno 32] Broken pipe
+2022-08-11 01:22:21,888 - [Errno 32] Broken pipe
+2022-08-11 01:22:21,888 - [Errno 32] Broken pipe
+2022-08-11 01:22:21,888 - [Errno 32] Broken pipe
+2022-08-11 01:22:21,888 - [Errno 32] Broken pipe
+2022-08-11 01:22:21,889 - [Errno 32] Broken pipe
+2022-08-11 01:22:21,889 - lan_type=en        |query=war                 |tweet_count=56        |
+2022-08-11 01:22:22,356 - [Errno 32] Broken pipe
+2022-08-11 01:22:22,356 - [Errno 32] Broken pipe
+2022-08-11 01:22:22,357 - [Errno 32] Broken pipe
+2022-08-11 01:22:22,357 - lan_type=en        |query=ukraine             |tweet_count=36        |
+2022-08-11 01:22:22,583 - [Errno 32] Broken pipe
+2022-08-11 01:22:22,583 - [Errno 32] Broken pipe
+2022-08-11 01:22:22,584 - [Errno 32] Broken pipe
+2022-08-11 01:22:22,584 - [Errno 32] Broken pipe
+2022-08-11 01:22:22,584 - [Errno 32] Broken pipe
+2022-08-11 01:22:22,584 - [Errno 32] Broken pipe
+2022-08-11 01:22:22,584 - [Errno 32] Broken pipe
+2022-08-11 01:22:22,584 - [Errno 32] Broken pipe
+2022-08-11 01:22:22,584 - [Errno 32] Broken pipe
+2022-08-11 01:22:22,584 - [Errno 32] Broken pipe
+2022-08-11 01:22:22,584 - lan_type=en        |query=bts                 |tweet_count=58        |
+2022-08-11 01:22:23,433 - lan_type=en        |query=Putin               |tweet_count=35        |
+2022-08-11 01:22:23,588 - [Errno 32] Broken pipe
+2022-08-11 01:22:23,588 - [Errno 32] Broken pipe
+2022-08-11 01:22:23,589 - [Errno 32] Broken pipe
+2022-08-11 01:22:23,589 - [Errno 32] Broken pipe
+2022-08-11 01:22:23,589 - [Errno 32] Broken pipe
+2022-08-11 01:22:23,589 - [Errno 32] Broken pipe
+2022-08-11 01:22:23,589 - [Errno 32] Broken pipe
+2022-08-11 01:22:23,589 - lan_type=en        |query=russia              |tweet_count=57        |
+2022-08-11 01:22:23,739 - [Errno 32] Broken pipe
+2022-08-11 01:22:23,739 - [Errno 32] Broken pipe
+2022-08-11 01:22:23,739 - [Errno 32] Broken pipe
+2022-08-11 01:22:23,740 - [Errno 32] Broken pipe
+2022-08-11 01:22:23,740 - [Errno 32] Broken pipe
+2022-08-11 01:22:23,740 - lan_type=en        |query=war                 |tweet_count=61        |
+2022-08-11 01:22:24,136 - [Errno 32] Broken pipe
+2022-08-11 01:22:24,136 - [Errno 32] Broken pipe
+2022-08-11 01:22:24,136 - lan_type=en        |query=ukraine             |tweet_count=38        |
+2022-08-11 01:29:22,963 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:29:22,963 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:29:22,966 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:29:22,966 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:29:22,966 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:29:22,966 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:29:22,972 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:29:22,972 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:29:22,975 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:29:22,976 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:29:22,979 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:29:22,979 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:29:25,293 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-08-11 01:29:25,309 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-08-11 01:29:25,314 - lan_type=en        |query=Putin               |tweet_count=19        |
+2022-08-11 01:29:25,342 - lan_type=en        |query=bts                 |tweet_count=13        |
+2022-08-11 01:29:26,308 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-08-11 01:29:27,129 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-08-11 01:29:27,137 - lan_type=en        |query=Putin               |tweet_count=22        |
+2022-08-11 01:29:27,242 - lan_type=en        |query=bts                 |tweet_count=16        |
+2022-08-11 01:29:27,353 - lan_type=en        |query=war                 |tweet_count=29        |
+2022-08-11 01:29:28,248 - lan_type=en        |query=russia              |tweet_count=21        |
+2022-08-11 01:29:28,943 - lan_type=en        |query=ukraine             |tweet_count=25        |
+2022-08-11 01:29:28,966 - lan_type=en        |query=Putin               |tweet_count=22        |
+2022-08-11 01:29:29,235 - lan_type=en        |query=war                 |tweet_count=33        |
+2022-08-11 01:29:29,285 - lan_type=en        |query=bts                 |tweet_count=24        |
+2022-08-11 01:29:30,119 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-08-11 01:29:30,693 - lan_type=en        |query=Putin               |tweet_count=22        |
+2022-08-11 01:29:30,945 - lan_type=en        |query=ukraine             |tweet_count=33        |
+2022-08-11 01:29:31,049 - lan_type=en        |query=war                 |tweet_count=36        |
+2022-08-11 01:29:31,138 - lan_type=en        |query=bts                 |tweet_count=28        |
+2022-08-11 01:29:31,893 - [Errno 111] Connection refused
+2022-08-11 01:29:31,893 - lan_type=en        |query=russia              |tweet_count=24        |
+2022-08-11 01:29:32,437 - lan_type=en        |query=Putin               |tweet_count=22        |
+2022-08-11 01:29:32,786 - [Errno 111] Connection refused
+2022-08-11 01:29:32,787 - [Errno 111] Connection refused
+2022-08-11 01:29:32,787 - [Errno 111] Connection refused
+2022-08-11 01:29:32,788 - [Errno 111] Connection refused
+2022-08-11 01:29:32,788 - [Errno 111] Connection refused
+2022-08-11 01:29:32,788 - [Errno 111] Connection refused
+2022-08-11 01:29:32,788 - lan_type=en        |query=ukraine             |tweet_count=39        |
+2022-08-11 01:31:02,833 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:31:02,833 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:31:02,833 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:31:02,834 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:31:02,837 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:31:02,837 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:31:02,837 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:31:02,837 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:31:02,842 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:31:02,843 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:31:05,223 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-08-11 01:31:05,236 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-08-11 01:31:05,247 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-08-11 01:31:05,280 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-08-11 01:31:05,372 - lan_type=en        |query=bts                 |tweet_count=18        |
+2022-08-11 01:31:07,100 - lan_type=en        |query=war                 |tweet_count=29        |
+2022-08-11 01:31:07,102 - lan_type=en        |query=Putin               |tweet_count=21        |
+2022-08-11 01:31:07,125 - lan_type=en        |query=ukraine             |tweet_count=24        |
+2022-08-11 01:31:07,135 - lan_type=en        |query=russia              |tweet_count=23        |
+2022-08-11 01:31:07,589 - lan_type=en        |query=bts                 |tweet_count=27        |
+2022-08-11 01:31:08,918 - lan_type=en        |query=ukraine             |tweet_count=27        |
+2022-08-11 01:31:08,925 - lan_type=en        |query=russia              |tweet_count=24        |
+2022-08-11 01:31:08,930 - lan_type=en        |query=war                 |tweet_count=31        |
+2022-08-11 01:31:09,046 - lan_type=en        |query=Putin               |tweet_count=25        |
+2022-08-11 01:31:09,488 - lan_type=en        |query=bts                 |tweet_count=36        |
+2022-08-11 01:31:10,656 - lan_type=en        |query=ukraine             |tweet_count=27        |
+2022-08-11 01:31:10,768 - lan_type=en        |query=war                 |tweet_count=37        |
+2022-08-11 01:31:10,784 - lan_type=en        |query=russia              |tweet_count=25        |
+2022-08-11 01:31:10,802 - lan_type=en        |query=Putin               |tweet_count=26        |
+2022-08-11 01:31:11,265 - lan_type=en        |query=bts                 |tweet_count=38        |
+2022-08-11 01:31:12,547 - lan_type=en        |query=ukraine             |tweet_count=30        |
+2022-08-11 01:31:12,605 - lan_type=en        |query=war                 |tweet_count=39        |
+2022-08-11 01:31:12,615 - lan_type=en        |query=russia              |tweet_count=27        |
+2022-08-11 01:31:12,623 - lan_type=en        |query=Putin               |tweet_count=27        |
+2022-08-11 01:31:13,049 - lan_type=en        |query=bts                 |tweet_count=39        |
+2022-08-11 01:31:14,350 - lan_type=en        |query=russia              |tweet_count=27        |
+2022-08-11 01:31:14,352 - lan_type=en        |query=ukraine             |tweet_count=30        |
+2022-08-11 01:38:16,638 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:38:16,639 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:38:16,641 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:38:16,641 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:38:16,645 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:38:16,645 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:38:16,647 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:38:16,647 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:38:16,650 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:38:16,650 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:38:19,232 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-08-11 01:38:19,283 - lan_type=en        |query=bts                 |tweet_count=18        |
+2022-08-11 01:38:19,315 - lan_type=en        |query=war                 |tweet_count=19        |
+2022-08-11 01:38:19,406 - lan_type=en        |query=russia              |tweet_count=19        |
+2022-08-11 01:38:19,560 - lan_type=en        |query=ukraine             |tweet_count=19        |
+2022-08-11 01:38:21,035 - lan_type=en        |query=Putin               |tweet_count=22        |
+2022-08-11 01:38:21,174 - lan_type=en        |query=bts                 |tweet_count=26        |
+2022-08-11 01:38:21,225 - lan_type=en        |query=russia              |tweet_count=22        |
+2022-08-11 01:38:21,370 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-08-11 01:38:21,587 - lan_type=en        |query=war                 |tweet_count=28        |
+2022-08-11 01:38:22,896 - lan_type=en        |query=Putin               |tweet_count=23        |
+2022-08-11 01:38:23,012 - lan_type=en        |query=bts                 |tweet_count=29        |
+2022-08-11 01:38:23,039 - lan_type=en        |query=russia              |tweet_count=25        |
+2022-08-11 01:38:23,211 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-08-11 01:38:23,405 - lan_type=en        |query=war                 |tweet_count=34        |
+2022-08-11 01:38:24,717 - lan_type=en        |query=Putin               |tweet_count=26        |
+2022-08-11 01:38:24,895 - lan_type=en        |query=russia              |tweet_count=27        |
+2022-08-11 01:38:24,950 - lan_type=en        |query=bts                 |tweet_count=35        |
+2022-08-11 01:38:24,986 - lan_type=en        |query=ukraine             |tweet_count=23        |
+2022-08-11 01:38:25,383 - lan_type=en        |query=war                 |tweet_count=41        |
+2022-08-11 01:38:26,589 - [Errno 111] Connection refused
+2022-08-11 01:38:26,589 - lan_type=en        |query=Putin               |tweet_count=27        |
+2022-08-11 01:38:26,722 - [Errno 111] Connection refused
+2022-08-11 01:38:26,723 - [Errno 111] Connection refused
+2022-08-11 01:38:26,723 - [Errno 111] Connection refused
+2022-08-11 01:38:26,723 - [Errno 111] Connection refused
+2022-08-11 01:38:26,723 - lan_type=en        |query=russia              |tweet_count=31        |
+2022-08-11 01:38:26,760 - [Errno 111] Connection refused
+2022-08-11 01:38:26,761 - [Errno 111] Connection refused
+2022-08-11 01:38:26,761 - lan_type=en        |query=ukraine             |tweet_count=25        |
+2022-08-11 01:38:26,804 - [Errno 111] Connection refused
+2022-08-11 01:38:26,805 - [Errno 111] Connection refused
+2022-08-11 01:38:26,805 - [Errno 111] Connection refused
+2022-08-11 01:38:26,805 - [Errno 111] Connection refused
+2022-08-11 01:38:26,805 - lan_type=en        |query=bts                 |tweet_count=39        |
+2022-08-11 01:38:27,267 - [Errno 111] Connection refused
+2022-08-11 01:38:27,267 - [Errno 111] Connection refused
+2022-08-11 01:38:27,268 - [Errno 111] Connection refused
+2022-08-11 01:38:27,268 - [Errno 111] Connection refused
+2022-08-11 01:38:27,268 - [Errno 111] Connection refused
+2022-08-11 01:38:27,269 - [Errno 111] Connection refused
+2022-08-11 01:38:27,269 - [Errno 111] Connection refused
+2022-08-11 01:38:27,270 - [Errno 111] Connection refused
+2022-08-11 01:38:27,270 - lan_type=en        |query=war                 |tweet_count=49        |
+2022-08-11 01:38:28,389 - [Errno 111] Connection refused
+2022-08-11 01:38:28,389 - [Errno 111] Connection refused
+2022-08-11 01:38:28,390 - lan_type=en        |query=Putin               |tweet_count=29        |
+2022-08-11 01:38:28,449 - lan_type=en        |query=russia              |tweet_count=31        |
+2022-08-11 01:38:28,557 - [Errno 111] Connection refused
+2022-08-11 01:38:28,558 - [Errno 111] Connection refused
+2022-08-11 01:38:28,558 - lan_type=en        |query=ukraine             |tweet_count=27        |
+2022-08-11 01:38:28,803 - [Errno 111] Connection refused
+2022-08-11 01:38:28,803 - [Errno 111] Connection refused
+2022-08-11 01:38:28,803 - [Errno 111] Connection refused
+2022-08-11 01:38:28,804 - [Errno 111] Connection refused
+2022-08-11 01:38:28,804 - [Errno 111] Connection refused
+2022-08-11 01:38:28,805 - [Errno 111] Connection refused
+2022-08-11 01:38:28,805 - [Errno 111] Connection refused
+2022-08-11 01:38:28,805 - [Errno 111] Connection refused
+2022-08-11 01:38:28,806 - [Errno 111] Connection refused
+2022-08-11 01:38:28,806 - [Errno 111] Connection refused
+2022-08-11 01:38:28,806 - lan_type=en        |query=bts                 |tweet_count=49        |
+2022-08-11 01:38:29,055 - [Errno 111] Connection refused
+2022-08-11 01:38:29,056 - [Errno 111] Connection refused
+2022-08-11 01:38:29,056 - [Errno 111] Connection refused
+2022-08-11 01:38:29,057 - [Errno 111] Connection refused
+2022-08-11 01:38:29,057 - lan_type=en        |query=war                 |tweet_count=53        |
+2022-08-11 01:38:30,189 - [Errno 111] Connection refused
+2022-08-11 01:38:30,190 - lan_type=en        |query=Putin               |tweet_count=30        |
+2022-08-11 01:38:30,203 - lan_type=en        |query=russia              |tweet_count=31        |
+2022-08-11 01:38:30,505 - [Errno 111] Connection refused
+2022-08-11 01:38:30,505 - lan_type=en        |query=ukraine             |tweet_count=28        |
+2022-08-11 01:38:30,688 - [Errno 111] Connection refused
+2022-08-11 01:38:30,688 - [Errno 111] Connection refused
+2022-08-11 01:38:30,689 - [Errno 111] Connection refused
+2022-08-11 01:38:30,689 - [Errno 111] Connection refused
+2022-08-11 01:38:30,689 - [Errno 111] Connection refused
+2022-08-11 01:38:30,690 - [Errno 111] Connection refused
+2022-08-11 01:38:30,690 - [Errno 111] Connection refused
+2022-08-11 01:38:30,690 - [Errno 111] Connection refused
+2022-08-11 01:38:30,691 - [Errno 111] Connection refused
+2022-08-11 01:38:30,691 - lan_type=en        |query=bts                 |tweet_count=58        |
+2022-08-11 01:38:30,910 - [Errno 111] Connection refused
+2022-08-11 01:38:30,911 - [Errno 111] Connection refused
+2022-08-11 01:38:30,911 - [Errno 111] Connection refused
+2022-08-11 01:38:30,911 - [Errno 111] Connection refused
+2022-08-11 01:38:30,912 - [Errno 111] Connection refused
+2022-08-11 01:38:30,912 - [Errno 111] Connection refused
+2022-08-11 01:38:30,912 - lan_type=en        |query=war                 |tweet_count=59        |
+2022-08-11 01:38:32,066 - lan_type=en        |query=Putin               |tweet_count=30        |
+2022-08-11 01:38:32,073 - [Errno 111] Connection refused
+2022-08-11 01:38:32,073 - [Errno 111] Connection refused
+2022-08-11 01:38:32,074 - [Errno 111] Connection refused
+2022-08-11 01:38:32,074 - [Errno 111] Connection refused
+2022-08-11 01:38:32,075 - [Errno 111] Connection refused
+2022-08-11 01:38:32,075 - [Errno 111] Connection refused
+2022-08-11 01:38:32,075 - [Errno 111] Connection refused
+2022-08-11 01:38:32,075 - lan_type=en        |query=russia              |tweet_count=38        |
+2022-08-11 01:38:32,309 - [Errno 111] Connection refused
+2022-08-11 01:38:32,309 - [Errno 111] Connection refused
+2022-08-11 01:38:32,310 - [Errno 111] Connection refused
+2022-08-11 01:38:32,310 - lan_type=en        |query=ukraine             |tweet_count=31        |
+2022-08-11 01:38:32,569 - [Errno 111] Connection refused
+2022-08-11 01:38:32,570 - [Errno 111] Connection refused
+2022-08-11 01:38:32,570 - [Errno 111] Connection refused
+2022-08-11 01:38:32,570 - lan_type=en        |query=bts                 |tweet_count=61        |
+2022-08-11 01:38:32,862 - [Errno 111] Connection refused
+2022-08-11 01:38:32,863 - [Errno 111] Connection refused
+2022-08-11 01:38:32,863 - [Errno 111] Connection refused
+2022-08-11 01:38:32,863 - [Errno 111] Connection refused
+2022-08-11 01:38:32,864 - [Errno 111] Connection refused
+2022-08-11 01:38:32,864 - [Errno 111] Connection refused
+2022-08-11 01:38:32,864 - [Errno 111] Connection refused
+2022-08-11 01:38:32,865 - [Errno 111] Connection refused
+2022-08-11 01:38:32,865 - [Errno 111] Connection refused
+2022-08-11 01:38:32,865 - lan_type=en        |query=war                 |tweet_count=68        |
+2022-08-11 01:38:33,951 - [Errno 111] Connection refused
+2022-08-11 01:38:33,952 - [Errno 111] Connection refused
+2022-08-11 01:38:33,952 - [Errno 111] Connection refused
+2022-08-11 01:38:33,952 - lan_type=en        |query=russia              |tweet_count=41        |
+2022-08-11 01:38:34,076 - [Errno 111] Connection refused
+2022-08-11 01:38:34,076 - [Errno 111] Connection refused
+2022-08-11 01:38:34,076 - [Errno 111] Connection refused
+2022-08-11 01:38:34,077 - [Errno 111] Connection refused
+2022-08-11 01:38:34,077 - [Errno 111] Connection refused
+2022-08-11 01:38:34,077 - lan_type=en        |query=Putin               |tweet_count=35        |
+2022-08-11 01:38:34,132 - [Errno 111] Connection refused
+2022-08-11 01:38:34,132 - [Errno 111] Connection refused
+2022-08-11 01:38:34,132 - lan_type=en        |query=ukraine             |tweet_count=33        |
+2022-08-11 01:38:34,639 - [Errno 111] Connection refused
+2022-08-11 01:38:34,639 - [Errno 111] Connection refused
+2022-08-11 01:38:34,639 - [Errno 111] Connection refused
+2022-08-11 01:38:34,640 - [Errno 111] Connection refused
+2022-08-11 01:38:34,640 - [Errno 111] Connection refused
+2022-08-11 01:38:34,641 - [Errno 111] Connection refused
+2022-08-11 01:38:34,641 - [Errno 111] Connection refused
+2022-08-11 01:38:34,642 - [Errno 111] Connection refused
+2022-08-11 01:38:34,642 - [Errno 111] Connection refused
+2022-08-11 01:38:34,642 - [Errno 111] Connection refused
+2022-08-11 01:38:34,643 - [Errno 111] Connection refused
+2022-08-11 01:38:34,643 - [Errno 111] Connection refused
+2022-08-11 01:38:34,643 - lan_type=en        |query=bts                 |tweet_count=73        |
+2022-08-11 01:38:34,741 - [Errno 111] Connection refused
+2022-08-11 01:38:34,741 - [Errno 111] Connection refused
+2022-08-11 01:38:34,742 - [Errno 111] Connection refused
+2022-08-11 01:38:34,742 - [Errno 111] Connection refused
+2022-08-11 01:38:34,743 - [Errno 111] Connection refused
+2022-08-11 01:38:34,743 - [Errno 111] Connection refused
+2022-08-11 01:38:34,743 - [Errno 111] Connection refused
+2022-08-11 01:38:34,744 - [Errno 111] Connection refused
+2022-08-11 01:38:34,744 - [Errno 111] Connection refused
+2022-08-11 01:38:34,744 - lan_type=en        |query=war                 |tweet_count=77        |
+2022-08-11 01:38:35,755 - [Errno 111] Connection refused
+2022-08-11 01:38:35,756 - [Errno 111] Connection refused
+2022-08-11 01:38:35,766 - lan_type=en        |query=russia              |tweet_count=43        |
+2022-08-11 01:38:35,962 - [Errno 111] Connection refused
+2022-08-11 01:38:35,962 - [Errno 111] Connection refused
+2022-08-11 01:38:35,962 - lan_type=en        |query=ukraine             |tweet_count=35        |
+2022-08-11 01:38:36,017 - [Errno 111] Connection refused
+2022-08-11 01:38:36,018 - [Errno 111] Connection refused
+2022-08-11 01:38:36,018 - lan_type=en        |query=Putin               |tweet_count=37        |
+2022-08-11 01:38:36,448 - [Errno 111] Connection refused
+2022-08-11 01:38:36,449 - [Errno 111] Connection refused
+2022-08-11 01:38:36,449 - [Errno 111] Connection refused
+2022-08-11 01:38:36,450 - [Errno 111] Connection refused
+2022-08-11 01:38:36,450 - [Errno 111] Connection refused
+2022-08-11 01:38:36,451 - [Errno 111] Connection refused
+2022-08-11 01:38:36,451 - lan_type=en        |query=bts                 |tweet_count=79        |
+2022-08-11 01:38:36,613 - [Errno 111] Connection refused
+2022-08-11 01:38:36,614 - [Errno 111] Connection refused
+2022-08-11 01:38:36,614 - [Errno 111] Connection refused
+2022-08-11 01:38:36,615 - [Errno 111] Connection refused
+2022-08-11 01:38:36,615 - [Errno 111] Connection refused
+2022-08-11 01:38:36,615 - lan_type=en        |query=war                 |tweet_count=82        |
+2022-08-11 01:38:37,656 - [Errno 111] Connection refused
+2022-08-11 01:38:37,656 - lan_type=en        |query=russia              |tweet_count=44        |
+2022-08-11 01:38:37,728 - [Errno 111] Connection refused
+2022-08-11 01:38:37,728 - lan_type=en        |query=ukraine             |tweet_count=36        |
+2022-08-11 01:38:37,889 - lan_type=en        |query=Putin               |tweet_count=37        |
+2022-08-11 01:38:38,551 - [Errno 111] Connection refused
+2022-08-11 01:38:38,551 - [Errno 111] Connection refused
+2022-08-11 01:38:38,552 - [Errno 111] Connection refused
+2022-08-11 01:38:38,552 - [Errno 111] Connection refused
+2022-08-11 01:38:38,553 - [Errno 111] Connection refused
+2022-08-11 01:38:38,553 - [Errno 111] Connection refused
+2022-08-11 01:38:38,553 - [Errno 111] Connection refused
+2022-08-11 01:38:38,554 - [Errno 111] Connection refused
+2022-08-11 01:38:38,554 - [Errno 111] Connection refused
+2022-08-11 01:38:38,555 - [Errno 111] Connection refused
+2022-08-11 01:38:38,555 - [Errno 111] Connection refused
+2022-08-11 01:38:38,555 - [Errno 111] Connection refused
+2022-08-11 01:38:38,556 - [Errno 111] Connection refused
+2022-08-11 01:38:38,556 - [Errno 111] Connection refused
+2022-08-11 01:38:38,556 - lan_type=en        |query=bts                 |tweet_count=93        |
+2022-08-11 01:38:38,576 - [Errno 111] Connection refused
+2022-08-11 01:38:38,576 - [Errno 111] Connection refused
+2022-08-11 01:38:38,576 - [Errno 111] Connection refused
+2022-08-11 01:38:38,577 - [Errno 111] Connection refused
+2022-08-11 01:38:38,577 - [Errno 111] Connection refused
+2022-08-11 01:38:38,577 - [Errno 111] Connection refused
+2022-08-11 01:38:38,578 - [Errno 111] Connection refused
+2022-08-11 01:38:38,578 - [Errno 111] Connection refused
+2022-08-11 01:38:38,578 - [Errno 111] Connection refused
+2022-08-11 01:38:38,579 - [Errno 111] Connection refused
+2022-08-11 01:38:38,579 - lan_type=en        |query=war                 |tweet_count=92        |
+2022-08-11 01:38:39,415 - lan_type=en        |query=russia              |tweet_count=44        |
+2022-08-11 01:38:39,535 - [Errno 111] Connection refused
+2022-08-11 01:38:39,535 - lan_type=en        |query=ukraine             |tweet_count=37        |
+2022-08-11 01:38:39,636 - lan_type=en        |query=Putin               |tweet_count=37        |
+2022-08-11 01:38:40,426 - [Errno 111] Connection refused
+2022-08-11 01:38:40,427 - [Errno 111] Connection refused
+2022-08-11 01:38:40,427 - [Errno 111] Connection refused
+2022-08-11 01:38:40,427 - [Errno 111] Connection refused
+2022-08-11 01:38:40,428 - [Errno 111] Connection refused
+2022-08-11 01:38:40,428 - [Errno 111] Connection refused
+2022-08-11 01:38:40,429 - [Errno 111] Connection refused
+2022-08-11 01:38:40,429 - [Errno 111] Connection refused
+2022-08-11 01:38:40,429 - lan_type=en        |query=bts                 |tweet_count=101       |
+2022-08-11 01:38:40,432 - [Errno 111] Connection refused
+2022-08-11 01:38:40,433 - [Errno 111] Connection refused
+2022-08-11 01:38:40,433 - [Errno 111] Connection refused
+2022-08-11 01:38:40,433 - [Errno 111] Connection refused
+2022-08-11 01:38:40,434 - [Errno 111] Connection refused
+2022-08-11 01:38:40,434 - [Errno 111] Connection refused
+2022-08-11 01:38:40,434 - [Errno 111] Connection refused
+2022-08-11 01:38:40,435 - [Errno 111] Connection refused
+2022-08-11 01:38:40,435 - lan_type=en        |query=war                 |tweet_count=100       |
+2022-08-11 01:38:41,269 - [Errno 111] Connection refused
+2022-08-11 01:38:41,269 - lan_type=en        |query=russia              |tweet_count=45        |
+2022-08-11 01:38:41,278 - lan_type=en        |query=ukraine             |tweet_count=37        |
+2022-08-11 01:38:41,402 - lan_type=en        |query=Putin               |tweet_count=37        |
+2022-08-11 01:38:42,251 - [Errno 111] Connection refused
+2022-08-11 01:38:42,251 - [Errno 111] Connection refused
+2022-08-11 01:38:42,251 - [Errno 111] Connection refused
+2022-08-11 01:38:42,252 - [Errno 111] Connection refused
+2022-08-11 01:38:42,252 - [Errno 111] Connection refused
+2022-08-11 01:38:42,252 - lan_type=en        |query=bts                 |tweet_count=106       |
+2022-08-11 01:38:42,253 - [Errno 111] Connection refused
+2022-08-11 01:38:42,253 - [Errno 111] Connection refused
+2022-08-11 01:38:42,254 - [Errno 111] Connection refused
+2022-08-11 01:38:42,254 - lan_type=en        |query=war                 |tweet_count=103       |
+2022-08-11 01:39:53,049 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:39:53,049 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:39:53,049 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:39:53,049 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:39:53,050 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:39:53,050 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:39:53,050 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:39:53,053 - GETCONF __owningcontrollerprocess (runtime: 0.0003)
+2022-08-11 01:39:53,053 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:39:53,053 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:39:53,053 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:39:53,053 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:39:53,053 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:39:53,053 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:39:53,058 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:39:53,059 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:39:53,059 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:39:53,059 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:39:53,059 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:39:53,062 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:39:53,062 - GETCONF __owningcontrollerprocess (runtime: 0.0002)
+2022-08-11 01:39:53,063 - Error while receiving a control message (SocketClosed): received exception "read of closed file"
+2022-08-11 01:39:53,063 - Error while receiving a control message (SocketClosed): empty socket content
+2022-08-11 01:39:53,063 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:39:53,063 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:39:53,063 - Error while receiving a control message (SocketClosed): received exception "peek of closed file"
+2022-08-11 01:39:56,389 - lan_type=en        |query=bts                 |tweet_count=17        |
+2022-08-11 01:39:57,421 - lan_type=en        |query=russia              |tweet_count=20        |
+2022-08-11 01:39:57,445 - lan_type=en        |query=ukraine             |tweet_count=20        |
+2022-08-11 01:39:57,479 - lan_type=en        |query=war                 |tweet_count=20        |
+2022-08-11 01:39:57,605 - lan_type=en        |query=Putin               |tweet_count=20        |
+2022-08-11 01:39:58,300 - lan_type=en        |query=bts                 |tweet_count=28        |
+2022-08-11 01:39:59,230 - lan_type=en        |query=ukraine             |tweet_count=22        |
+2022-08-11 01:39:59,381 - lan_type=en        |query=russia              |tweet_count=28        |
+2022-08-11 01:39:59,465 - lan_type=en        |query=Putin               |tweet_count=25        |
+2022-08-11 01:39:59,589 - lan_type=en        |query=war                 |tweet_count=32        |
+2022-08-11 01:40:00,219 - lan_type=en        |query=bts                 |tweet_count=35        |
+2022-08-11 01:40:01,026 - lan_type=en        |query=ukraine             |tweet_count=25        |
+2022-08-11 01:40:01,182 - lan_type=en        |query=russia              |tweet_count=29        |
+2022-08-11 01:40:01,294 - lan_type=en        |query=Putin               |tweet_count=29        |
+2022-08-11 01:40:01,547 - lan_type=en        |query=war                 |tweet_count=39        |
+2022-08-11 01:40:02,143 - lan_type=en        |query=bts                 |tweet_count=38        |
+2022-08-11 01:40:02,830 - lan_type=en        |query=ukraine             |tweet_count=29        |
+2022-08-11 01:40:03,020 - lan_type=en        |query=russia              |tweet_count=34        |
+2022-08-11 01:40:03,250 - lan_type=en        |query=Putin               |tweet_count=32        |
+2022-08-11 01:40:03,415 - lan_type=en        |query=war                 |tweet_count=44        |
+2022-08-11 01:40:03,977 - lan_type=en        |query=bts                 |tweet_count=44        |
+2022-08-11 01:40:04,684 - lan_type=en        |query=ukraine             |tweet_count=34        |
+2022-08-11 01:40:05,025 - lan_type=en        |query=russia              |tweet_count=38        |
+2022-08-11 01:40:05,114 - lan_type=en        |query=Putin               |tweet_count=34        |
+2022-08-11 01:40:05,197 - lan_type=en        |query=war                 |tweet_count=47        |
+2022-08-11 01:40:05,897 - lan_type=en        |query=bts                 |tweet_count=53        |
+2022-08-11 01:40:06,447 - lan_type=en        |query=ukraine             |tweet_count=34        |
+2022-08-11 01:40:06,848 - lan_type=en        |query=russia              |tweet_count=41        |
+2022-08-11 01:40:06,927 - lan_type=en        |query=Putin               |tweet_count=36        |
+2022-08-11 01:40:07,660 - lan_type=en        |query=war                 |tweet_count=57        |
+2022-08-11 01:40:07,862 - lan_type=en        |query=bts                 |tweet_count=61        |
+2022-08-11 01:40:08,348 - lan_type=en        |query=ukraine             |tweet_count=35        |
+2022-08-11 01:40:08,724 - lan_type=en        |query=Putin               |tweet_count=36        |
+2022-08-11 01:40:08,835 - lan_type=en        |query=russia              |tweet_count=48        |
+2022-08-11 01:40:09,593 - lan_type=en        |query=war                 |tweet_count=64        |
+2022-08-11 01:40:09,748 - lan_type=en        |query=bts                 |tweet_count=69        |
+2022-08-11 01:40:10,304 - lan_type=en        |query=ukraine             |tweet_count=40        |
+2022-08-11 01:40:10,645 - lan_type=en        |query=russia              |tweet_count=51        |
+2022-08-11 01:40:10,648 - lan_type=en        |query=Putin               |tweet_count=41        |
+2022-08-11 01:40:11,487 - lan_type=en        |query=war                 |tweet_count=69        |
+2022-08-11 01:40:11,593 - lan_type=en        |query=bts                 |tweet_count=74        |
+2022-08-11 01:40:12,099 - lan_type=en        |query=ukraine             |tweet_count=41        |
+2022-08-11 01:40:12,413 - lan_type=en        |query=russia              |tweet_count=52        |
+2022-08-11 01:40:12,451 - lan_type=en        |query=Putin               |tweet_count=43        |
+2022-08-11 01:40:13,382 - lan_type=en        |query=war                 |tweet_count=74        |
+2022-08-11 01:40:13,538 - lan_type=en        |query=bts                 |tweet_count=83        |
+2022-08-11 01:40:13,922 - lan_type=en        |query=ukraine             |tweet_count=42        |
+2022-08-11 01:40:14,176 - lan_type=en        |query=russia              |tweet_count=54        |
+2022-08-11 01:40:14,266 - lan_type=en        |query=Putin               |tweet_count=46        |
+2022-08-11 01:40:15,326 - lan_type=en        |query=war                 |tweet_count=79        |
+2022-08-11 01:40:15,407 - lan_type=en        |query=bts                 |tweet_count=87        |
+2022-08-11 01:40:15,751 - lan_type=en        |query=ukraine             |tweet_count=45        |
+2022-08-11 01:40:16,034 - lan_type=en        |query=russia              |tweet_count=57        |
+2022-08-11 01:40:16,085 - lan_type=en        |query=Putin               |tweet_count=48        |
+2022-08-11 01:40:17,205 - lan_type=en        |query=war                 |tweet_count=87        |
+2022-08-11 01:40:17,298 - lan_type=en        |query=bts                 |tweet_count=95        |
+2022-08-11 01:40:17,606 - lan_type=en        |query=ukraine             |tweet_count=50        |
+2022-08-11 01:40:17,843 - lan_type=en        |query=russia              |tweet_count=60        |
+2022-08-11 01:40:17,878 - lan_type=en        |query=Putin               |tweet_count=51        |
+2022-08-11 01:40:19,015 - lan_type=en        |query=war                 |tweet_count=92        |
+2022-08-11 01:40:19,154 - lan_type=en        |query=bts                 |tweet_count=102       |
+2022-08-11 01:40:19,419 - lan_type=en        |query=ukraine             |tweet_count=52        |
+2022-08-11 01:40:19,696 - lan_type=en        |query=russia              |tweet_count=63        |
+2022-08-11 01:40:19,780 - lan_type=en        |query=Putin               |tweet_count=52        |
+2022-08-11 01:40:20,866 - lan_type=en        |query=war                 |tweet_count=100       |
+2022-08-11 01:40:21,034 - lan_type=en        |query=bts                 |tweet_count=107       |
+2022-08-11 01:40:21,235 - lan_type=en        |query=ukraine             |tweet_count=53        |
+2022-08-11 01:40:21,511 - lan_type=en        |query=russia              |tweet_count=65        |
+2022-08-11 01:40:21,629 - lan_type=en        |query=Putin               |tweet_count=58        |
+2022-08-11 01:40:22,739 - lan_type=en        |query=war                 |tweet_count=104       |
+2022-08-11 01:40:23,115 - lan_type=en        |query=bts                 |tweet_count=111       |
+2022-08-11 01:40:23,144 - lan_type=en        |query=ukraine             |tweet_count=57        |
+2022-08-11 01:40:23,335 - lan_type=en        |query=russia              |tweet_count=68        |
+2022-08-11 01:40:23,427 - lan_type=en        |query=Putin               |tweet_count=61        |
+2022-08-11 01:40:24,590 - lan_type=en        |query=war                 |tweet_count=106       |
+2022-08-11 01:40:24,945 - lan_type=en        |query=bts                 |tweet_count=114       |
+2022-08-11 01:40:25,113 - lan_type=en        |query=ukraine             |tweet_count=58        |
+2022-08-11 01:40:25,170 - lan_type=en        |query=russia              |tweet_count=70        |
+2022-08-11 01:40:25,224 - lan_type=en        |query=Putin               |tweet_count=64        |
+2022-08-11 01:40:26,501 - lan_type=en        |query=war                 |tweet_count=113       |
+2022-08-11 01:40:26,811 - lan_type=en        |query=bts                 |tweet_count=121       |
+2022-08-11 01:40:27,051 - lan_type=en        |query=russia              |tweet_count=72        |
+2022-08-11 01:40:27,068 - lan_type=en        |query=Putin               |tweet_count=65        |
+2022-08-11 01:40:27,647 - lan_type=en        |query=ukraine             |tweet_count=59        |
+2022-08-11 01:40:28,356 - lan_type=en        |query=war                 |tweet_count=117       |
+2022-08-11 01:40:28,779 - lan_type=en        |query=bts                 |tweet_count=132       |
+2022-08-11 01:40:28,859 - lan_type=en        |query=Putin               |tweet_count=66        |
+2022-08-11 01:40:28,877 - lan_type=en        |query=russia              |tweet_count=72        |
+2022-08-11 01:40:29,452 - lan_type=en        |query=ukraine             |tweet_count=61        |
+2022-08-11 01:40:30,147 - lan_type=en        |query=war                 |tweet_count=121       |
+2022-08-11 01:40:30,576 - lan_type=en        |query=bts                 |tweet_count=134       |
+2022-08-11 01:40:30,647 - lan_type=en        |query=russia              |tweet_count=73        |
+2022-08-11 01:40:30,694 - lan_type=en        |query=Putin               |tweet_count=68        |
+2022-08-11 01:40:31,252 - lan_type=en        |query=ukraine             |tweet_count=63        |
+2022-08-11 01:40:32,070 - lan_type=en        |query=war                 |tweet_count=125       |
+2022-08-11 01:40:32,457 - lan_type=en        |query=bts                 |tweet_count=139       |
+2022-08-11 01:40:32,514 - lan_type=en        |query=Putin               |tweet_count=73        |
+2022-08-11 01:40:32,521 - lan_type=en        |query=russia              |tweet_count=80        |
+2022-08-11 01:40:33,027 - lan_type=en        |query=ukraine             |tweet_count=64        |
+2022-08-11 01:40:33,989 - lan_type=en        |query=war                 |tweet_count=133       |
+2022-08-11 01:40:34,306 - lan_type=en        |query=Putin               |tweet_count=74        |
+2022-08-11 01:40:34,408 - lan_type=en        |query=russia              |tweet_count=86        |
+2022-08-11 01:40:34,419 - lan_type=en        |query=bts                 |tweet_count=148       |
+2022-08-11 01:40:34,789 - lan_type=en        |query=ukraine             |tweet_count=66        |
+2022-08-11 01:40:35,812 - lan_type=en        |query=war                 |tweet_count=136       |
+2022-08-11 01:40:36,110 - lan_type=en        |query=Putin               |tweet_count=76        |
+2022-08-11 01:40:36,240 - lan_type=en        |query=russia              |tweet_count=90        |
+2022-08-11 01:40:36,283 - lan_type=en        |query=bts                 |tweet_count=155       |
+2022-08-11 01:40:36,577 - lan_type=en        |query=ukraine             |tweet_count=67        |
+2022-08-11 01:40:37,657 - lan_type=en        |query=war                 |tweet_count=141       |
+2022-08-11 01:40:37,933 - lan_type=en        |query=Putin               |tweet_count=78        |
+2022-08-11 01:40:38,007 - lan_type=en        |query=russia              |tweet_count=92        |
+2022-08-11 01:40:38,152 - lan_type=en        |query=bts                 |tweet_count=161       |
+2022-08-11 01:40:38,407 - lan_type=en        |query=ukraine             |tweet_count=69        |
+2022-08-11 01:40:39,519 - lan_type=en        |query=war                 |tweet_count=147       |
+2022-08-11 01:40:39,783 - lan_type=en        |query=Putin               |tweet_count=82        |
+2022-08-11 01:40:39,895 - lan_type=en        |query=russia              |tweet_count=93        |
+2022-08-11 01:40:40,099 - lan_type=en        |query=bts                 |tweet_count=165       |
+2022-08-11 01:40:40,231 - lan_type=en        |query=ukraine             |tweet_count=72        |
+2022-08-11 01:40:41,374 - lan_type=en        |query=war                 |tweet_count=152       |
+2022-08-11 01:40:41,566 - lan_type=en        |query=Putin               |tweet_count=83        |
+2022-08-11 01:40:41,691 - lan_type=en        |query=russia              |tweet_count=95        |
+2022-08-11 01:40:41,884 - lan_type=en        |query=bts                 |tweet_count=166       |
+2022-08-11 01:40:42,007 - lan_type=en        |query=ukraine             |tweet_count=73        |
+2022-08-11 01:40:43,246 - lan_type=en        |query=war                 |tweet_count=158       |
+2022-08-11 01:40:43,366 - lan_type=en        |query=Putin               |tweet_count=83        |
+2022-08-11 01:40:43,486 - lan_type=en        |query=russia              |tweet_count=95        |
+2022-08-11 01:40:43,787 - lan_type=en        |query=bts                 |tweet_count=173       |
+2022-08-11 01:40:43,789 - lan_type=en        |query=ukraine             |tweet_count=75        |
+2022-08-11 01:40:45,049 - lan_type=en        |query=war                 |tweet_count=161       |
+2022-08-11 01:40:45,134 - lan_type=en        |query=Putin               |tweet_count=83        |
+2022-08-11 01:40:45,322 - lan_type=en        |query=russia              |tweet_count=96        |
+2022-08-11 01:40:45,565 - lan_type=en        |query=ukraine             |tweet_count=76        |
+2022-08-11 01:40:45,724 - lan_type=en        |query=bts                 |tweet_count=176       |
+2022-08-11 01:40:46,849 - lan_type=en        |query=Putin               |tweet_count=83        |
+2022-08-11 01:40:46,990 - lan_type=en        |query=war                 |tweet_count=166       |
+2022-08-11 01:40:47,214 - lan_type=en        |query=russia              |tweet_count=99        |
+2022-08-11 01:40:47,371 - lan_type=en        |query=ukraine             |tweet_count=77        |
+2022-08-11 01:40:47,578 - lan_type=en        |query=bts                 |tweet_count=182       |
+2022-08-11 01:40:48,764 - lan_type=en        |query=Putin               |tweet_count=83        |
+2022-08-11 01:40:48,781 - lan_type=en        |query=war                 |tweet_count=169       |
+2022-08-11 01:40:49,045 - lan_type=en        |query=russia              |tweet_count=102       |
+2022-08-11 01:40:49,110 - lan_type=en        |query=ukraine             |tweet_count=77        |
+2022-08-11 01:40:49,444 - lan_type=en        |query=bts                 |tweet_count=189       |
+2022-08-11 01:40:50,483 - lan_type=en        |query=Putin               |tweet_count=83        |
+2022-08-11 01:40:50,681 - lan_type=en        |query=war                 |tweet_count=177       |
+2022-08-11 01:40:50,927 - lan_type=en        |query=ukraine             |tweet_count=78        |
+2022-08-11 01:40:50,964 - lan_type=en        |query=russia              |tweet_count=105       |
+2022-08-11 01:40:51,341 - lan_type=en        |query=bts                 |tweet_count=194       |
+2022-08-11 01:40:52,235 - lan_type=en        |query=Putin               |tweet_count=83        |
+2022-08-11 01:40:52,567 - lan_type=en        |query=war                 |tweet_count=182       |
+2022-08-11 01:40:52,672 - lan_type=en        |query=ukraine             |tweet_count=78        |
+2022-08-11 01:40:52,758 - lan_type=en        |query=russia              |tweet_count=106       |
+2022-08-11 01:40:53,200 - lan_type=en        |query=bts                 |tweet_count=199       |
+2022-08-11 01:40:53,992 - lan_type=en        |query=Putin               |tweet_count=83        |
+2022-08-11 01:40:54,520 - lan_type=en        |query=war                 |tweet_count=190       |
+2022-08-11 01:40:54,555 - lan_type=en        |query=ukraine             |tweet_count=82        |
+2022-08-11 01:40:54,602 - lan_type=en        |query=russia              |tweet_count=110       |
+2022-08-11 01:40:55,181 - lan_type=en        |query=bts                 |tweet_count=206       |
