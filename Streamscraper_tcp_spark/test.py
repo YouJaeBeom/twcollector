@@ -28,7 +28,7 @@ def query_execute(query):
     while(1):
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-        sock.connect(('117.17.189.205', 13000))     # 접속할 서버의 ip주소와 포트번호를 입력.
+        sock.connect(('117.17.189.206', 13000))     # 접속할 서버의 ip주소와 포트번호를 입력.
         sock.send(query.encode())                 # 내가 전송할 데이터를 보냄.
 
 if(__name__ == '__main__') :

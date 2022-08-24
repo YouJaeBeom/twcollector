@@ -23,16 +23,16 @@ class MyPool(multiprocessing.pool.Pool):
     Process = NoDaemonProcess
 
 # This block of code enables us to call the script from command line.
-def execute(query,language, x_guest_token):
+def execute(query,language, x_guest_token, conn, addr):
     try:
-        streamscraper = ScrapingEngine.ScrapingEngine(query, language, x_guest_token)
+        streamscraper = ScrapingEngine.ScrapingEngine(query, language, x_guest_token, conn, addr)
         streamscraper.start_scraping()        
         command = "python ScrapingEngine.py --query '%s' --process_number '%s'  --x_guest_token '%s'"%(query, language, x_guest_token)
         print(command)
     except Exception as ex:
         print(ex)
 
-def query_execute(query):
+def query_execute(query, conn, addr):
     ## language_list && language_list index list 
     with open(config['DEFAULT']['LANGUAGE_FILE'], 'r') as f:
         language_list = f.read().strip().split(',')
@@ -49,7 +49,7 @@ def query_execute(query):
     
     ## langauge per process 
     process_pool = multiprocessing.Pool(processes = len(language_list))
-    process_pool.starmap(execute, zip(repeat(query), language_list, repeat(x_guest_token)))
+    process_pool.starmap(execute, zip(repeat(query), language_list, repeat(x_guest_token), repeat(conn), repeat(addr) ))
     process_pool.close()
     process_pool.join()
     
@@ -64,10 +64,21 @@ if(__name__ == '__main__') :
         query_list = f.read().strip().split(',')
         query_index_list = [x for x in range(len(query_list))]
     
+    if config['DEFAULT']['SEND_MODE']=="tcp":
+        TCP_IP = "117.17.189.206"
+        TCP_PORT = 13000
+        conn = None
+        # create a socket object
+        s = socket.socket()
+        s.bind((TCP_IP, TCP_PORT))
+        s.listen(1)
+        print("13000 listen")
+
+        conn, addr = s.accept()
 
     ## query per process 
     process_pool = MyPool(len(query_list))
-    process_pool.map(query_execute, (query_list))
+    process_pool.starmap(query_execute, zip(query_list, repeat(conn), repeat(addr)))
     process_pool.close()
     process_pool.join()
     print("-------%s seconds -----"%(time.time()-start))

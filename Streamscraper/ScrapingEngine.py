@@ -76,6 +76,12 @@ class ScrapingEngine(object):
             pass
         
         self.tweetIDfile = 'tweetID/tweetID.txt'
+        if os.path.exists(self.tweetIDfile ):
+            os.remove(self.tweetIDfile )
+            print("The file has been deleted successfully")
+        else:
+            print("The file does not exist!")
+        
         os.makedirs(os.path.dirname(self.tweetIDfile), exist_ok=True)  
 
     def set_tor(self):
@@ -236,20 +242,16 @@ class ScrapingEngine(object):
                         tweet_json = json.dumps(tweet, indent=4, sort_keys=True, ensure_ascii=False)
                         self.producer.send("tweet", tweet_json.encode('utf-8'))
                         self.producer.flush()
-                        with open(self.tweetIDfile, 'a') as f:
-                            f.write(str(tweet['id_str'])+",")
                     elif config['DEFAULT']['SEND_MODE']=="json":
                         with open(self.filename, 'a') as f:
                             f.write(json.dumps(tweet_json)+"\n")
-                        with open(self.tweetIDfile, 'a') as f:
-                            f.write(str(tweet['id_str'])+",")
                     elif config['DEFAULT']['SEND_MODE']=="tcp":
                         self.sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
                         self.sock.connect(('117.17.189.205', 13000))     # 접속할 서버의 ip주소와 포트번호를 입력.
                         self.sock.send((json.dumps(tweet)+"\n").encode())                 # 내가 전송할 데이터를 보냄.
                         #self.conn.send((json.dumps(tweet)+"\n").encode('utf-8'))
-                        with open(self.tweetIDfile, 'a') as f:
-                            f.write(str(tweet['id_str'])+",")
+                    with open(self.tweetIDfile, 'a') as f:
+                        f.write(str(tweet['start_timestamp'])+","+str(tweet['id_str'])+"\n")
                 except Exception as ex:
                     logger.critical(ex)
                     print(ex)
