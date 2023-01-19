@@ -1,68 +1,69 @@
+import logging
+import os
+from queue import Queue
+from threading import Thread
+from time import time
 import ScrapingEngine
 import multiprocessing 
 import AuthenticationManager 
 import time 
+import socket
 from itertools import repeat
 import time 
+import configparser
+config = configparser.ConfigParser()
+config.read('config.ini')
+import random
 
-class NoDaemonProcess(multiprocessing.Process):
-    # make 'daemon' attribute always return False
-    def _get_daemon(self):
-        return False
-    def _set_daemon(self, value):
-        pass
-    daemon = property(_get_daemon, _set_daemon)
+class ScrapingWorker(Thread):
 
-# We sub-class multiprocessing.pool.Pool instead of multiprocessing.Pool
-# because the latter is only a wrapper function, not a proper class.
-class MyPool(multiprocessing.pool.Pool):
-    Process = NoDaemonProcess
+    def __init__(self, queue):
+        Thread.__init__(self)
+        self.queue = queue
 
-# This block of code enables us to call the script from command line.
-def execute(query,language, x_guest_token):
-    try:
-        streamscraper = ScrapingEngine.ScrapingEngine(query, language, x_guest_token)
+    def run(self):
+        #port = random.randint(10000,10200)
+        query, x_guest_token = self.queue.get()
+
+        streamscraper = ScrapingEngine.ScrapingEngine(query, x_guest_token)
         streamscraper.start_scraping()        
-        command = "python ScrapingEngine.py --query '%s' --process_number '%s'  --x_guest_token '%s'"%(query, language, x_guest_token)
-        print(command)
-    except Exception as ex:
-        print(ex)
-
-def query_execute(query):
-    ## language_list && language_list index list 
-    with open('language_list.txt', 'r') as f:
-        language_list = f.read().strip().split(',')
-        language_index_list = [x for x in range(len(language_list))]
+        self.queue.task_done()
 
 
-    ## Set x_guest_token per query 
-    x_guest_token = None
-    while True:
-        x_guest_token = AuthenticationManager.get_x_guest_token()
-        if x_guest_token != None:
-            break
-    
-    
-    ## langauge per process 
-    process_pool = multiprocessing.Pool(processes = len(language_list))
-    process_pool.starmap(execute, zip(repeat(query), language_list, repeat(x_guest_token)))
-    process_pool.close()
-    process_pool.join()
-    
-    
-if(__name__ == '__main__') :
+if __name__ == '__main__':
     start=time.time()
+
+    tweetIDfile = 'tweetID/tweetID.txt'
+    if os.path.exists(tweetIDfile ):
+        os.remove(tweetIDfile)
+        print("The file has been deleted successfully")
+    else:
+        print("The file does not exist!")
+        os.makedirs(os.path.dirname(tweetIDfile), exist_ok=True)
+
     query_list =[]
     query_index_list = []
-
-    ## query list && query index list 
-    with open('list.txt', 'r') as f:
+    with open(config['DEFAULT']['QUERY_FILE'], 'r') as f:
         query_list = f.read().strip().split(',')
         query_index_list = [x for x in range(len(query_list))]
+    
+    
+    ## Set x_guest_token per query 
+    x_guest_token = AuthenticationManager.get_x_guest_token()
+    
 
-    ## query per process 
-    process_pool = MyPool(len(query_list))
-    process_pool.map(query_execute,(query_list))
-    process_pool.close()
-    process_pool.join()
-    print("-------%s seconds -----"%(time.time()-start))
+    # Create a queue to communicate with the worker threads
+    queue = Queue()
+    # Create 8 worker threads
+    for _ in query_list:
+        worker = ScrapingWorker(queue)
+        # Setting daemon to True will let the main thread exit even though the workers are blocking
+        worker.daemon = True
+        worker.start()
+
+    # Put the tasks into the queue as a tuple
+    for indx, row in enumerate(query_list):
+        queue.put((row, x_guest_token))
+        #queue.put((query, conn1, addr1, conn2, addr2))
+    # Causes the main thread to wait for the queue to finish processing all the tasks
+    queue.join()

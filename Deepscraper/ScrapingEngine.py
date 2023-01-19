@@ -3,25 +3,13 @@ import requests
 import json
 import sys
 import time
-import maya
+import os
+
 import random
 import socket
 import urllib.parse
 import urllib.request
-from pytz import timezone
 import datetime
-KST = timezone('Asia/Seoul')
-import os
-import time
-from itertools import repeat
-import socket
-import multiprocessing
-# We must import this explicitly, it is not imported by the top-level
-# multiprocessing module.
-import multiprocessing.pool
-import time
-from stem.control import Controller
-from stem import Signal
 
 # 로그 생성
 import logging
@@ -58,14 +46,8 @@ class ScrapingEngine(object):
         
         ## Setting url
         self.url = "https://twitter.com/search?q={}&src=typed_query&f=live".format(self.query)
-        
-        ## Setting Language type
-        self.accept_language = "en"
-        self.x_twitter_client_language = "en"
 
-        ## setting tor
-        if config['DEFAULT']['TOR']:
-            self.set_tor()
+        self.tweetIDfile = 'tweetID/tweetID.txt'
 
         ## Setting send mode:
         if config['DEFAULT']['SEND_MODE']=="kafka":
@@ -73,15 +55,6 @@ class ScrapingEngine(object):
         elif config['DEFAULT']['SEND_MODE']=="json":
             self.set_json()
 
-    def set_tor(self):
-        print("setting tor")
-        self.ports = [9051, 9061, 9071, 9081]
-        self.idx = random.randint(0, 3)
-        self.port = self.ports[self.idx]
-        with Controller.from_port(port = self.port) as controller:
-            controller.authenticate(password="MyStr")
-            controller.signal(Signal.NEWNYM)
-        self.proxies = {'http': 'socks5h://localhost:'+str(self.port),}    
 
     def set_kafka(self):
         print("setting kafka")
@@ -92,15 +65,19 @@ class ScrapingEngine(object):
     def set_json(self):
         print("setting json file")
         self.filename = 'results/{}.json'.format(self.query)
-        os.makedirs(os.path.dirname(self.filename), exist_ok=True)  
+        if os.path.exists(self.filename ):
+            os.remove(self.filename)
+            print("The file has been deleted successfully")
+        else:
+            print("The file does not exist!")
+            os.makedirs(os.path.dirname(self.filename), exist_ok=True)
     
     def set_search_url(self):
         self.url = self.base_url + self.query +"&src=typed_query&f=live"
-        
         return self.url
 
     def set_token(self):
-        print(self.accept_language, self.query, "retry token")
+        print( self.query, "retry token")
         while True:
             x_guest_token = AuthenticationManager.get_x_guest_token()
             if x_guest_token != None :
@@ -125,9 +102,7 @@ class ScrapingEngine(object):
             ## setting header
             self.headers = {
                     'Accept': '*/*',
-                    'Accept-Language': self.accept_language,
                     'x-guest-token': self.x_guest_token,
-                    'x-twitter-client-language': self.x_twitter_client_language,
                     'x-twitter-active-user': 'yes',
                     'Sec-Fetch-Dest': 'empty',
                     'Sec-Fetch-Mode': 'cors',
@@ -173,50 +148,37 @@ class ScrapingEngine(object):
                  
             ## api requests 
             try:
-                if config['DEFAULT']['TOR']:
-                    self.response = requests.get(
-                            'https://twitter.com/i/api/2/search/adaptive.json', 
-                            headers=self.headers,
-                            params=self.params,
-                            proxies=self.proxies,
-                            timeout=2
-                            )
-                else: 
-                    self.response = requests.get(
-                            'https://twitter.com/i/api/2/search/adaptive.json', 
-                            headers=self.headers,
-                            params=self.params,
-                            timeout=2
-                            )
+                self.response = requests.get(
+                        'https://twitter.com/i/api/2/search/adaptive.json', 
+                        headers=self.headers,
+                        params=self.params,
+                        #proxies=self.proxies,
+                        timeout=3
+                        )
                 self.response_json = self.response.json()
-            except Exception as ex:
-                ## If API is restricted, request to change Cookie and Authorization again
-                result_print = "lan_type={0:<10}|query={1:<20}|change Cookie&Authorization| error={2}|".format(
-                    self.accept_language,
-                    self.query,
-                    ex
-                )
-                logger.critical(result_print)
-                print(result_print)
-                self.x_guest_token = self.set_token()
-                self.set_tor()
-                
-            
-            ## parsing response 
-            try:
                 self.tweets = self.response_json['globalObjects']['tweets'].values()
-                self.get_tweets(self.tweets)
             except Exception as ex:
-                result_print = "lan_type={0:<10}|query={1:<20}|paring error| error={2}|".format(
-                    self.accept_language,
+                result_print = "query={0:<10}|requests-error={1:<20}|".format(
                     self.query,
-                    ex
+                    str(ex)
                 )
-                logger.critical(result_print)
+                #self.logger.critical(result_print)
                 print(result_print)
+                self.x_guest_token = AuthenticationManager.get_x_guest_token()
+                #self.set_tor()
+                time.sleep(5)
                 continue
-            
+            else:
+                self.get_tweets(self.tweets)
 
+                ## cursor reset
+                self.cursor = GetCursor.get_scroll_cursor(self.response_json)
+                result_print = "query={0:<10}|tweet_count=query={1:<20}|".format(
+                    self.query,
+                    str(self.totalcount)
+                )
+                print(result_print)
+                #self.logger.critical(result_print)
             
             
     def get_tweets(self,tweets):  
@@ -235,20 +197,8 @@ class ScrapingEngine(object):
                     elif config['DEFAULT']['SEND_MODE']=="json":
                         with open(self.filename, 'a') as f:
                             f.write(json.dumps(tweet)+"\n")
+                    with open(self.tweetIDfile, 'a') as f:
+                        f.write(str(tweet['id_str']+","))
                 except Exception as ex:
                     logger.critical(ex)
                     print(ex)
-                    
-        self.refresh_requests_setting()
-        
-        
-    def refresh_requests_setting(self):
-        self.cursor = GetCursor.get_scroll_cursor(self.response_json)
-        
-        result_print = "lan_type={0:<10}|query={1:<20}|tweet_count={2:<10}|".format(
-                self.accept_language,
-                self.query,
-                self.totalcount
-        )
-        print(result_print)
-        logger.critical(result_print)
