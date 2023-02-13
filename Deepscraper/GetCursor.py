@@ -1,3 +1,4 @@
+
 def get_refresh_cursor(response_json):   
     """
     get refresh cursor value function

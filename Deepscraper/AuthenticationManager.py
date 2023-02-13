@@ -2,6 +2,7 @@ import requests
 import json
 import random
 
+
 def get_x_guest_token():
     url_token = 'https://api.twitter.com/1.1/guest/activate.json'
 
@@ -14,7 +15,8 @@ def get_x_guest_token():
         try:
             x_guest_token = json.loads(requests.post(url_token, headers=headers).text)['guest_token']
         except Exception as ex:
-            pass
+            print("error x_guest_token")
+            continue
         if x_guest_token != None :
             break
     
