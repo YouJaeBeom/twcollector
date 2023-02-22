@@ -31,16 +31,7 @@ class ScrapingWorker(Thread):
 
 
 if __name__ == '__main__' :
-    """## Kafka & Spark
-    TCP_IP = "117.17.189.206"
-    TCP_PORT = 13000
-    conn = None
-    s = socket.socket()
-    s.bind((TCP_IP, TCP_PORT))
 
-    s.listen(1)
-    print("Lelay engine waiting")
-    conn, addr = s.accept()"""
 
     queue_list = [
         ['russia', '%'],
