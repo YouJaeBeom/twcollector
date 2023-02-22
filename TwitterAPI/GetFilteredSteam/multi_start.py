@@ -8,28 +8,7 @@ import filtered_stream
 from queue import Queue
 from threading import Thread
 import os
-"""
-api_list = [
-    "AAAAAAAAAAAAAAAAAAAAAIYXGwEAAAAASH8V2kDl9PXNW8wGJkUBxgFxwc0%3DKXeGiIQQmpb8YgtfGGT71bq89NnYmEtmMGHMkMrt1ObabPCeDE",
-    "AAAAAAAAAAAAAAAAAAAAAExBhAEAAAAAP95ksZunQkcz1GHnvM9NdSucUlQ%3D909d1u2PncGrJ8OHyYp4u3W7pZxxycB6tXzAnkyOXqn54uzHG0",
-    "AAAAAAAAAAAAAAAAAAAAAAmaawEAAAAAW7xutvXQdssQZI2o4GSQ%2Bvq4KHg%3DG7ycYpX4ploINxCb8pV7WcJsjOxmOQgEML5taUihHaevet3hSo",
-    "AAAAAAAAAAAAAAAAAAAAAB6obQEAAAAAwenuSAHe0K8NmSw4SYosxw9sB0g%3Dg11NtzKL58hE2uwVMvwNk6JYIED5mjwzcOXH7pN9WhEcGy58Di",
-    "AAAAAAAAAAAAAAAAAAAAAMZBhAEAAAAAMxWDUHTxrEDWyictBiQveSzY2fk%3DPC703Bn71ETZOGa3OJoxrCEXvMDyDH4jL13845n2d7JHoZDVkm"
-]
-query_list = [
-    ['russia','Ukraine','Putin','war','russian'],
-    ['bts','@BTS_twt','#bts','jimin','RM']
-]
 
-query_list = [
-    ['russia', 'bts'],
-    ['Ukraine', '@BTS_twt'],
-    ['Putin', '#bts'],
-    ['war', 'jimin'],
-    ['russian','RM']
-]
-
-"""
 
 class ScrapingWorker(Thread):
 
@@ -64,16 +43,16 @@ if __name__ == '__main__' :
     conn, addr = s.accept()"""
 
     queue_list = [
-        ['russia', 'AAAAAAAAAAAAAAAAAAAAAIYXGwEAAAAASH8V2kDl9PXNW8wGJkUBxgFxwc0%3DKXeGiIQQmpb8YgtfGGT71bq89NnYmEtmMGHMkMrt1ObabPCeDE'],
-        ['Ukraine', 'AAAAAAAAAAAAAAAAAAAAAExBhAEAAAAAP95ksZunQkcz1GHnvM9NdSucUlQ%3D909d1u2PncGrJ8OHyYp4u3W7pZxxycB6tXzAnkyOXqn54uzHG0'],
-        ['Putin', 'AAAAAAAAAAAAAAAAAAAAAAmaawEAAAAAW7xutvXQdssQZI2o4GSQ%2Bvq4KHg%3DG7ycYpX4ploINxCb8pV7WcJsjOxmOQgEML5taUihHaevet3hSo'],
-        ['war', 'AAAAAAAAAAAAAAAAAAAAAB6obQEAAAAAwenuSAHe0K8NmSw4SYosxw9sB0g%3Dg11NtzKL58hE2uwVMvwNk6JYIED5mjwzcOXH7pN9WhEcGy58Di'],
-        ['russian','AAAAAAAAAAAAAAAAAAAAAMZBhAEAAAAAMxWDUHTxrEDWyictBiQveSzY2fk%3DPC703Bn71ETZOGa3OJoxrCEXvMDyDH4jL13845n2d7JHoZDVkm'],
-        ['bts', 'AAAAAAAAAAAAAAAAAAAAAIYXGwEAAAAASH8V2kDl9PXNW8wGJkUBxgFxwc0%3DKXeGiIQQmpb8YgtfGGT71bq89NnYmEtmMGHMkMrt1ObabPCeDE'],
-        ['@BTS_twt', 'AAAAAAAAAAAAAAAAAAAAAExBhAEAAAAAP95ksZunQkcz1GHnvM9NdSucUlQ%3D909d1u2PncGrJ8OHyYp4u3W7pZxxycB6tXzAnkyOXqn54uzHG0'],
-        ['#bts', 'AAAAAAAAAAAAAAAAAAAAAAmaawEAAAAAW7xutvXQdssQZI2o4GSQ%2Bvq4KHg%3DG7ycYpX4ploINxCb8pV7WcJsjOxmOQgEML5taUihHaevet3hSo'],
-        ['jimin', 'AAAAAAAAAAAAAAAAAAAAAB6obQEAAAAAwenuSAHe0K8NmSw4SYosxw9sB0g%3Dg11NtzKL58hE2uwVMvwNk6JYIED5mjwzcOXH7pN9WhEcGy58Di'],
-        ['RM','AAAAAAAAAAAAAAAAAAAAAMZBhAEAAAAAMxWDUHTxrEDWyictBiQveSzY2fk%3DPC703Bn71ETZOGa3OJoxrCEXvMDyDH4jL13845n2d7JHoZDVkm']
+        ['russia', '%'],
+        ['Ukraine', '%'],
+        ['Putin', '%2Bvq4KHg%'],
+        ['war', '%'],
+        ['russian','%'],
+        ['bts', '%'],
+        ['@BTS_twt', '%'],
+        ['#bts', '%2Bvq4KHg%'],
+        ['jimin', '%'],
+        ['RM','%']
     ]
 
     tweetIDfile = 'tweetID/tweetID.txt'
