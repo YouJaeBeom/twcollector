@@ -102,7 +102,7 @@ class ScrapingEngine(object):
 
     def set_kafka(self):
         print("setting kafka")
-        bootstrap_servers = ['117.17.189.205:9092','117.17.189.205:9093','117.17.189.205:9094']
+        bootstrap_servers = ['']
         self.producer = KafkaProducer(acks=1, compression_type='gzip', api_version=(0, 10, 1), bootstrap_servers=bootstrap_servers)
     
     def set_tor(self):
