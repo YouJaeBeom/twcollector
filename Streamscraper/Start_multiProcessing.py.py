@@ -48,7 +48,7 @@ def query_execute(query, conn1, addr1, conn2, addr2):
     process_pool.join()
 
 def tcp_connector(port):
-    TCP_IP = "117.17.189.206"
+    TCP_IP = 
     TCP_PORT = port
     conn = None
     s = socket.socket()
