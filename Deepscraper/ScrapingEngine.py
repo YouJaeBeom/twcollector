@@ -115,16 +115,16 @@ class ScrapingEngine(object):
             self.set_kafka()
         elif self.send_mode == "mongodb":
             #self.client = MongoClient(host="117.17.189.206:20329")
-            self.username = urllib.parse.quote_plus('jbyou')
-            self.password = urllib.parse.quote_plus('gkdl1533!?')
-            self.client = MongoClient('mongodb://%s:%s@117.17.189.206:20329/admin?directConnection=true&serverSelectionTimeoutMS=2000&authSource=admin&appName=mongosh+1.6.2' % (self.username, self.password))
+            self.username = urllib.parse.quote_plus('')
+            self.password = urllib.parse.quote_plus('!?')
+            self.client = MongoClient('mongodb://%s:%s@.2' % (self.username, self.password))
             self.db = self.client['admin']
             self.collection = self.db['ftweet']
         
 
     def set_kafka(self):
         print("setting kafka")
-        bootstrap_servers = ['117.17.189.205:9092','117.17.189.205:9093','117.17.189.205:9094']
+        bootstrap_servers = ['']
 =======
         self.proxies = {'http': 'socks5h://localhost:'+str(self.port-1000),} 
 
