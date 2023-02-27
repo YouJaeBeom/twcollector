@@ -22,7 +22,10 @@ import multiprocessing.pool
 import time
 from stem.control import Controller
 from stem import Signal
+<<<<<<< HEAD
 import pytz
+=======
+>>>>>>> 2a2fc918ccbeaf7c9a6cf343fb474e708939727e
 
 # 로그 생성
 import logging
@@ -94,6 +97,7 @@ class ScrapingEngine(object):
         self.cursor = None
         self.totalcount = 0
         self.port = port
+<<<<<<< HEAD
         #self.proxies = {'http': 'socks5h://localhost:'+str(self.port-1000),} 
 
         ## Setting url
@@ -121,6 +125,27 @@ class ScrapingEngine(object):
     def set_kafka(self):
         print("setting kafka")
         bootstrap_servers = ['117.17.189.205:9092','117.17.189.205:9093','117.17.189.205:9094']
+=======
+        self.proxies = {'http': 'socks5h://localhost:'+str(self.port-1000),} 
+
+        ## Setting url
+        self.url = "https://twitter.com/search?q={}&src=typed_query&f=live".format(self.query)
+        
+        ## Setting Language type
+        self.accept_language = language
+        self.x_twitter_client_language = language
+        
+        self.conn = conn
+        self.addr = addr
+        #self.tweetIDlogger = tweetIDlogger
+
+        ## Setting send mode:
+        self.set_kafka()
+
+    def set_kafka(self):
+        print("setting kafka")
+        bootstrap_servers = ['']
+>>>>>>> 2a2fc918ccbeaf7c9a6cf343fb474e708939727e
         self.producer = KafkaProducer(acks=1, compression_type='gzip', api_version=(0, 10, 1), bootstrap_servers=bootstrap_servers)
     
     def set_tor(self):
@@ -139,7 +164,11 @@ class ScrapingEngine(object):
 
             if request_count == 100 :
                 request_count = 0
+<<<<<<< HEAD
                 #self.set_tor()
+=======
+                self.set_tor()
+>>>>>>> 2a2fc918ccbeaf7c9a6cf343fb474e708939727e
                 self.x_guest_token = AuthenticationManager.get_x_guest_token()
 
             self.headers = {
@@ -186,7 +215,11 @@ class ScrapingEngine(object):
                 'include_ext_trusted_friends_metadata': 'true',
                 'send_error_codes': 'true',
                 'simple_quoted_tweet': 'true',
+<<<<<<< HEAD
                 'q': "until:2022-03-31 since:2022-02-01 "+self.query,
+=======
+                'q': self.query,
+>>>>>>> 2a2fc918ccbeaf7c9a6cf343fb474e708939727e
                 'tweet_search_mode': 'live',
                 'count': '100',
                 'query_source': 'typed_query',
@@ -252,7 +285,7 @@ class ScrapingEngine(object):
                         'https://twitter.com/i/api/2/search/adaptive.json', 
                         headers=self.headers,
                         params=self.params,
-                        #proxies=self.proxies,
+                        proxies=self.proxies,
                         timeout=3
                         )
                 self.response_json = self.response.json()
@@ -289,6 +322,7 @@ class ScrapingEngine(object):
         for tweet in tweets: 
             try:                   
                 self.totalcount = self.totalcount + 1
+<<<<<<< HEAD
                 # 'Mon Feb 13 08:40:02 +0000 2023' 
                 tweet['topic'] = self.topic
                 #print(tweet['topic'])
@@ -299,6 +333,13 @@ class ScrapingEngine(object):
                     continue
                 #tweet['created_at'] = datetime.datetime.strptime(tweet['created_at'], '%a %b %d %H:%M:%S  %Y')
                 tweet['start_timestamp'] = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')
+=======
+                tweet['start_timestamp'] = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')
+                """result_print = "{}\n".format(str(tweet['id_str']))
+                self.tweetIDlogger.critical(result_print)
+                with open(self.tweetIDfile, 'a') as f:
+                    f.write(str(tweet['id_str'])+"\n")"""
+>>>>>>> 2a2fc918ccbeaf7c9a6cf343fb474e708939727e
             except Exception as ex:
                 result_print = "{0:<10}|lan_type={1:<10}|query={2:<20}|add_tweet_columns={3:<10}|".format(
                     self.port,
@@ -309,6 +350,7 @@ class ScrapingEngine(object):
                 print(result_print)
                 continue
             
+<<<<<<< HEAD
             if self.send_mode == "kafka":
                 try:
                     ## TO KAFKA 
@@ -353,4 +395,32 @@ class ScrapingEngine(object):
                         str(ex))
                     #self.logger.critical(result_print)
                     print(result_print)
+=======
+            try:
+                ## TO KAFKA 
+                tweet_json = json.dumps(tweet, indent=4, sort_keys=True, ensure_ascii=False)
+                self.producer.send("tweet", value=tweet_json.encode('utf-8'))
+                self.producer.flush()
+            except Exception as ex:
+                result_print = "{0:<10}|lan_type={1:<10}|query={2:<20}|TO KAFKA={3:<10}|".format(
+                    self.port,
+                    self.accept_language,
+                    self.query,
+                    str(ex))
+                #self.logger.critical(result_print)
+                print(result_print) 
+            
+            try:
+                ## TO tcp Spark
+                #self.conn.send((results+"\n").encode('utf-8'))
+                self.conn.send((json.dumps(tweet)+"\n").encode('utf-8'))
+            except Exception as ex:
+                result_print = "{0:<10}|lan_type={1:<10}|query={2:<20}|TO Spark Engine={3:<10}|".format(
+                    self.port,
+                    self.accept_language,
+                    self.query,
+                    str(ex))
+                #self.logger.critical(result_print)
+                print(result_print)
+>>>>>>> 2a2fc918ccbeaf7c9a6cf343fb474e708939727e
                 

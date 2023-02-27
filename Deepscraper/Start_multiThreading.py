@@ -53,6 +53,7 @@ if __name__ == '__main__':
     ## Set x_guest_token per query 
     x_guest_token = AuthenticationManager.get_x_guest_token()
 
+<<<<<<< HEAD
     send_mode = config['DEFAULT']['SEND_MODE']
 
     if send_mode == "tcp":
@@ -97,4 +98,33 @@ if __name__ == '__main__':
             #queue.put((query, conn1, addr1, conn2, addr2))
         # Causes the main thread to wait for the queue to finish processing all the tasks
         queue.join()
+=======
+    TCP_IP = ""
+    TCP_PORT = 
+    conn = None
+    s = socket.socket()
+    s.bind((TCP_IP, TCP_PORT))
+
+    s.listen(1)
+    print("Lelay engine waiting")
+    conn, addr = s.accept()
+    
+    
+
+    # Create a queue to communicate with the worker threads
+    queue = Queue()
+    # Create 8 worker threads
+    for _ in queue_list:
+        worker = ScrapingWorker(queue)
+        # Setting daemon to True will let the main thread exit even though the workers are blocking
+        worker.daemon = True
+        worker.start()
+
+    # Put the tasks into the queue as a tuple
+    for indx, row in enumerate(queue_list):
+        queue.put(( indx, row[0], row[1], x_guest_token, conn, addr))
+        #queue.put((query, conn1, addr1, conn2, addr2))
+    # Causes the main thread to wait for the queue to finish processing all the tasks
+    queue.join()
+>>>>>>> 2a2fc918ccbeaf7c9a6cf343fb474e708939727e
     

@@ -94,6 +94,7 @@ class ScrapingEngine(object):
         self.accept_language = language
         self.x_twitter_client_language = language
         
+<<<<<<< HEAD
         self.send_mode = config['DEFAULT']['SEND_MODE']
         if self.send_mode == "tcp":
             self.conn = conn
@@ -110,6 +111,18 @@ class ScrapingEngine(object):
     def set_kafka(self):
         print("setting kafka")
         bootstrap_servers = ['117.17.189.205:9092','117.17.189.205:9093','117.17.189.205:9094']
+=======
+        self.conn = conn
+        self.addr = addr
+        #self.tweetIDlogger = tweetIDlogger
+
+        ## Setting send mode:
+        self.set_kafka()
+
+    def set_kafka(self):
+        print("setting kafka")
+        bootstrap_servers = 
+>>>>>>> 2a2fc918ccbeaf7c9a6cf343fb474e708939727e
         self.producer = KafkaProducer(acks=1, compression_type='gzip', api_version=(0, 10, 1), bootstrap_servers=bootstrap_servers)
     
     def set_tor(self):
@@ -128,7 +141,11 @@ class ScrapingEngine(object):
 
             if request_count == 100 :
                 request_count = 0
+<<<<<<< HEAD
                 #self.set_tor()
+=======
+                self.set_tor()
+>>>>>>> 2a2fc918ccbeaf7c9a6cf343fb474e708939727e
                 self.x_guest_token = AuthenticationManager.get_x_guest_token()
 
             self.headers = {
@@ -294,6 +311,7 @@ class ScrapingEngine(object):
                 print(result_print)
                 continue
             
+<<<<<<< HEAD
             if self.send_mode == "kafka":
                 try:
                     ## TO KAFKA 
@@ -338,4 +356,32 @@ class ScrapingEngine(object):
                         str(ex))
                     #self.logger.critical(result_print)
                     print(result_print)
+=======
+            try:
+                ## TO KAFKA 
+                tweet_json = json.dumps(tweet, indent=4, sort_keys=True, ensure_ascii=False)
+                self.producer.send("tweet", value=tweet_json.encode('utf-8'))
+                self.producer.flush()
+            except Exception as ex:
+                result_print = "{0:<10}|lan_type={1:<10}|query={2:<20}|TO KAFKA={3:<10}|".format(
+                    self.port,
+                    self.accept_language,
+                    self.query,
+                    str(ex))
+                #self.logger.critical(result_print)
+                print(result_print) 
+            
+            try:
+                ## TO tcp Spark
+                #self.conn.send((results+"\n").encode('utf-8'))
+                self.conn.send((json.dumps(tweet)+"\n").encode('utf-8'))
+            except Exception as ex:
+                result_print = "{0:<10}|lan_type={1:<10}|query={2:<20}|TO Spark Engine={3:<10}|".format(
+                    self.port,
+                    self.accept_language,
+                    self.query,
+                    str(ex))
+                #self.logger.critical(result_print)
+                print(result_print)
+>>>>>>> 2a2fc918ccbeaf7c9a6cf343fb474e708939727e
                 
